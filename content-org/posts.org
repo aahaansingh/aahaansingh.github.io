@@ -1,0 +1,109 @@
+#+hugo_base_dir: ../
+
+* DONE Posts                                                        
+** DONE A Website                                            :@tech:thoughts:
+:PROPERTIES:
+:EXPORT_FILE_NAME: post1
+:EXPORT_DATE: 2025-09-05
+:END:
+
+I decided a few weeks back, while interning at Tudor, to create a new website.
+
+The initial reason was that circumstances conspired to make me use a command line editor in order to debug something.
+In the second semester of my freshman year, I was forced to use Emacs for a week.
+No reason was given.
+I did not enjoy this task from above because Emacs felt cumbersome and the commands they gave us were stuff like "move your cursor to the next instance of a character" and "select and copy text".
+It makes sense to teach basic commands to someone starting out on an editor, but I was never given a reason why I /should/ use Emacs at all.
+Emacs is Emacs because of its huge and, most importantly, extensible[^fn:1] library of modes and commands.
+Anyways, I still barely know any Emacs and haven't used it for any big projects yet but I have been using Orgmode semi-regularly and have found it quite useful.
+
+I thought that Orgmode would be a good way to start out with Emacs, and ox-hugo a good way to start out with Orgmode.
+I also think that personal websites are cool and that everyone should have one because it's probably the most coherent way in which you can present yourself to the world.
+
+So, we'll see how this goes!
+
+[^fn:1]:  I have yet to grasp elisp, or lisp in general, so the only script I've written is one that replaces a key sequence with an em-dash.
+
+* DONE Projects
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: projects
+:END:
+
+
+** DONE Batting Collapse                                    :@sports:@tech:cricket:
+:PROPERTIES:
+:EXPORT_FILE_NAME: proj1
+:EXPORT_DATE: 2025-09-05
+:END:
+
+I'm a big cricket fan and a pretty terrible player, so I live out my fandom of cricket by being an armchair quarterback.
+As such, cricket is pretty much the ideal proving ground for new skills that I learn.
+
+I've documented some of my cricket projects [[https://medium.com/@aahaansingh][here]], along with some of my hopefully interesting findings.
+My analysis is based on data from [[https://cricsheet.org/][Cricsheet]], which I process using [[https://github.com/aahaansingh/CricBase][this]] tool.
+
+# [^fn:1]: A bit of a tortured idiom here but there's no real cricket equivalent. Umpire?
+
+
+
+** DONE Celadon                                                 :@apps:@tech:
+:PROPERTIES:
+:EXPORT_FILE_NAME: proj2
+:EXPORT_DATE: 2025-09-05
+:END:
+
+I'm working on an [[https://github.com/aahaansingh/Celadon/tree/main][RSS reader desktop app]] in Tauri (not a novel idea, but I'm looking to brush up on my Rust)[^fn:1]. Let this page serve as a testament to my will to actually complete it.
+
+[^fn:1]: And I have a somewhat expansive list of feeds so I figure that it's worth customizing my experience.
+
+
+
+** DONE Neural Net                                                :@ml:@tech:
+:PROPERTIES:
+:EXPORT_FILE_NAME: proj3
+:EXPORT_DATE: 2025-09-05
+:END:
+
+I implemented a neural network in NumPy—I get the impression that it is a rite of passage. You can check it out [[https://github.com/aahaansingh/NeuralNet][here]]!
+
+* Notes
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: notes
+:END:
+
+** DONE Library                                           :@library:thoughts:
+:PROPERTIES:
+:EXPORT_FILE_NAME: note1
+:EXPORT_DATE: 2025-09-06
+:END:
+
+In my first year of college humanities, my class was instructed to keep a commonplace book of quotes and comments for each of our assigned readings to get us thinking critically about them.
+This had the effect of making the unit more interesting, but also of making the idea of keeping a commonplace book less attractive.
+Still, the idea held some appeal to me.
+
+Over the past couple of years, I have been looking for interesting blogs and websites to follow.
+Everybody does this whether they're thinking about it or not, though much of the work is done by the algorithms that we are subject to.
+I wanted to remove this element, because, in addition to the well-documented risks and harms of passively being fed information, it just doesn't get me anywhere interesting.
+It's not very common anymore to bump into something surprising or exciting on one's daily trundles through cyberspace.
+Doing so requires a bit more intentionality—leaping through hyperlinks, I suppose.
+
+In any case, here are some interesting websites, in no particular order.
+
+*** Tech
+
+- [[https://www.citationneeded.news//][Citation Needed]]: I did not find crypto very interesting before this newsletter, but now I do!
+  Molly White is very methodical in how she dissects the complex, tangled interests of the crypto industry, which is very important now that crypto is going mainstream.
+  
+- [[https://www.wheresyoured.at/][Where's Your Ed At]]: I found Ed Zitron's Substack a few months back. He has very interesting things to stay about the present state and trajectory of private-sector AI;
+  over the past few months, he has been looking more and more correct.
+
+*** Music
+
+- [[https://thequietus.com/][The Quietus]]: I don't listen to what they push 90% of the time since they're a bit experimental for my tastes but the 10% is a very good 10%.
+
+- [[https://compilationnation.substack.com/][Compilation Nation]]: I picked up an older Compilation Nation zine and it was very good, and this is the same thing but online.
+
+*** Misc
+- [[https://kottke.org/][Kottke]]: I don't read most of the posts on here but every so often they post something /really/ interesting and that's often how I discover a new blog.
+
+- [[https://pudding.cool/][The Pudding]]: I don't think journalism gets much more engaging than [[https://pudding.cool/2025/04/music-dna][this]].
