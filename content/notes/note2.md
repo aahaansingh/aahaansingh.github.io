@@ -14,7 +14,7 @@ It's a similar phenomenon to how [RYM](https://rateyourmusic.com/) incentivizes 
 This is a good thing, but books are not the exclusive stores of literary or intellectual merit.
 
 I have not read many books this
-{{< sidenote "summer" >}}Though I am very proud of the fact that I completed Anna Karenina after nine months.{{< /sidenote >}}.
+{{< sidenote "summer" >}}Though I am very proud of the fact that I completed Anna Karenina after nine months.{{< /sidenote >}}
 for various reasons, one of which is the fact that I have spent much of my reading time looking for blogs and interesting publications to follow.
 I feel like this has been time well spent because one should read widely to some degree in addition to reading deeply, and building a good (RSS) feed enables the former.
 Over the course of this search, I have found pieces that have made me think very much.
