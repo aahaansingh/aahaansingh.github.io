@@ -12,8 +12,7 @@ Many are dependent on Spotify’s suggestions to some degree.
 None of them actually read musical criticism in judging what to listen to.
 
 Why is that?
-More importantly, does it matter?
-{{< sidenote "matter?" >}}It's a presumptuous question from anyone, let alone somebody who is /not/ a critic, but I've read enough to know what I like.{{< /sidenote >}}
+More importantly, does it matter?[^fn:1]
 
 
 ## Friction {#friction}
@@ -63,6 +62,7 @@ Immediate reviews are necessarily not fully thought out, and with media consolid
 
 I would contend that musical criticism has adapted rather than died.
 Streaming has decontextualized and homogenized musical discovery, which the best critics address.
+In fact, the best critics have always addressed this.
 
 
 ## Force {#force}
@@ -134,3 +134,5 @@ To say that publications only cover popular artists, however, is to betray a lac
 In this age of grand delusion, the critic should be a guide, whether by imposing their own scheme or by drawing attention to the strange lands outside our own.
 They do not mediate the flow of music anymore, if they ever did, but they exist for a reason and should exist for a reason.
 It is unfortunate that these reasons conflict.
+
+[^fn:1]: It's a presumptuous question from anyone, let alone somebody who is not a critic, but I've read enough to know what I like.

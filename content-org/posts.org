@@ -246,8 +246,7 @@ Many are dependent on Spotify’s suggestions to some degree.
 None of them actually read musical criticism in judging what to listen to.
 
 Why is that?
-More importantly, does it matter?
-@@html:{{< sidenote "matter?" >}}It's a presumptuous question from anyone, let alone somebody who is not a critic, but I've read enough to know what I like.{{< /sidenote >}}@@
+More importantly, does it matter?[^fn:1]
 
 *** Friction
 Music has historically been on a trajectory towards greater accesibility.
@@ -362,7 +361,7 @@ In this age of grand delusion, the critic should be a guide, whether by imposing
 They do not mediate the flow of music anymore, if they ever did, but they exist for a reason and should exist for a reason.
 It is unfortunate that these reasons conflict.
 
-
+[^fn:1]: It's a presumptuous question from anyone, let alone somebody who is not a critic, but I've read enough to know what I like.
 
 * DONE Projects
 :PROPERTIES:
