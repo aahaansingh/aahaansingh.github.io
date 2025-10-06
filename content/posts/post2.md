@@ -61,7 +61,7 @@ Irony is our generation's default register of communication, a fact that convers
 The three of us had such a conversation on the rooftop of his building, self-referential and reverential to the point of meaninglessness.
 J., dressed like some vague notion of a '90s British scenester (or my impression of one), had recently and amicably left his old Strokes-stroking
 {{< sidenote "band" >}}I have recently been informed that they are recording an album, though I unfortunately do not know if J. is part of this process.{{< /sidenote >}}
-band for the charted depths of individual songwriterhood.
+for the charted depths of individual songwriterhood.
 He was dealing with it just fine, really, and tipsily played us a few chords from atop his bed, which was fab.
 I was torn between amusement at the bit and awe at his level of commitment, though in retrospect, I think this was one thing that he _was_ sincere about.
 One does not choose to chase ghosts on a whim, as Bill Murray [taught us](https://www.youtube.com/watch?v=0tdyU_gW6WE).
@@ -189,7 +189,7 @@ They are, unfortunately, far less popular than their peak (when they were also n
 For being one of the largest zine stores in the world, it is really quite small.
 
 Over the course of a couple of visits, I acquired a dainty collection of interesting zines, including Sydney Salk's [Compilation Nation](https://compilationnation.substack.com/).
-There are lots of album review zines out there, but I really liked the concept of reviewing compilations, since the don't get a lot of love.
+There are lots of album review zines out there, but I really liked the concept of reviewing compilations, since they don't get a lot of love.
 It's also very New York, as [many](https://compilationnation.substack.com/p/compilation-nation-mutant-disco) [of](https://compilationnation.substack.com/p/compilation-nation-state-of-the-union) [the](https://compilationnation.substack.com/p/compilation-nation-today-brooklyn) [comps](https://compilationnation.substack.com/p/compilation-nation-times-square) document the local scene (or otherwise have some intrinsic connection to the city).
 In fact, as one of the reviews noted, Salk gets many of those records from Record Grouch in Greenpoint, supposedly one of the only places weird enough to carry good compilations.
 There was a recommendation I could follow.
