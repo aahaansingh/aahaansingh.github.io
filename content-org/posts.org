@@ -246,7 +246,7 @@ Many are dependent on Spotify’s suggestions to some degree.
 None of them actually read musical criticism in judging what to listen to.
 
 Why is that?
-More importantly, does it matter?[^fn:1]
+More importantly, does it matter?
 
 *** Friction
 Music has historically been on a trajectory towards greater accesibility.
@@ -278,11 +278,10 @@ Publications need clicks more than ever, incentivising pandering to the audience
 
 I question, however, the effect of these factors.
 After all, that Paste review /exists/.
-In fact, it went viral, so it's not like bad reviews don't get
-@@html:{{< sidenote "clicks." >}}A caveat: publications still need to review popular records for clicks, though rating them badly is on the cards.{{< /sidenote >}}@@
+In fact, it went viral, so it's not like bad reviews don't get clicks.
 In my experience, they are a lot more fun to read than good reviews, and have a broader audience, too:
 you don't have to have heard an album to delight in the witticisms of a sharp writer deconstructing it.
-Plus, people like to be contrarian, and nobody wants to have idiosyncratic taste more than a critic.
+Plus, people like to be contrarian, and nobody wants to have idiosyncratic taste more than someone whose job it is to write interesting things about art.
 Perhaps this is why reviews on [[https://www.cantgetmuchhigher.com/p/how-music-criticism-has-changed][Pitchfork]], the supposed bastion of critical subservience, are not necessarily getting more positive over time.
 
 It seems to me that the relationship between [[https://pitchfork.com/features/lists-and-guides/101-things-that-happened-in-2024-ranked-on-the-pitchfork-scale/][reviewers]] [[https://www.stereogum.com/2325068/premature-evaluation-taylor-swift-the-life-of-a-showgirl/reviews/premature-evaluation/][and]] [[https://www.nme.com/reviews/album/sabrina-carpenter-mans-best-friend-review-review-3889055][the]] [[https://pitchfork.com/reviews/albums/chow-lee-sex-drive/][zeitgeist]], whatever that means, is fraught.
@@ -296,9 +295,8 @@ In fact, the best critics have always addressed this.
 
 *** Force
 In being spoonfed a song, you learn little about it.
-The first time I heard Siouxsie and The Banshees' "Christine", I thought it was pretty catchy but let it pass by me.
-In my curiosity, I read about it.
-Christine was a real woman with dissociative identity disorder, her mind so
+The first time I heard Siouxsie and The Banshees' "Christine", I thought it was pretty catchy, but I didn't think about it much until I randomly got curious about the lyrics.
+Christine, the subject, was a real woman with dissociative identity disorder, her mind so
 @@html:{{< sidenote "fractured" >}}Like a kaleidoscope.{{< /sidenote >}}@@
 that her children were born to—and attached to—different personalities.
 The band itself had fractured [[https://genius.com/Siouxsie-and-the-banshees-drop-dead-celebration-lyrics][rather acrimoniously]] before it was released on the back of a significant change in their sound.
@@ -319,16 +317,17 @@ I want to know what the reviewer /feels/, not just what they think, and why they
 I would much rather read a [[https://uproxx.com/indie/geese-review-getting-killed/][blatantly biased, glowing review]] with the color of a critic than an [[https://pitchfork.com/reviews/albums/geese-getting-killed/][ostensibly neutral]] one in grayscale.
 One makes me actually want to listen to the album in
 @@html:{{< sidenote "question," >}}I didn't much like it, but I can clearly see why someone would.{{< /sidenote >}}@@
-while the other is dry enough to skim.
+while the other is dry enough to skim and ultimately ignore.
 These two articles may have different purposes, in that one is a somewhat abstract consideration of the meaning of a band
 while the other is a short piece pumped out very quickly to represent "the most trusted voice in music"'s take in a manner designed to avoid controversy,
 but only one is useful.
 Quality has objective elements, but if all music were evaluated on these alone, every critic would be the same and nothing interesting would be written.
+More importantly, a lot of what actually makes music worth listening to would be lost.
 In the search for objectivity, it is easy to erase one's subjectivity, but often this subjectivity is what makes one worth listening to.
 
 *** Inertia
 The barriers to entry for making music casually have ceased to exist, even as those to making music professionally have increased.
-As such, there exists a virtually unlimited amount of hardly-promoted music to listen to
+As such, there exists a virtually unlimited amount of hardly-promoted music to listen to.
 At the same time, however, platforms like Spotify and TikTok tend to promote the same songs over and [[https://en.wikipedia.org/wiki/I_Barely_Know_Her][over]].
 This means that most people are well ensconced in their streaming bubbles, and those who want to venture out are quickly overwhelmed.
 In other words, it is a difficult climate in which to discover new music.
@@ -337,14 +336,15 @@ I think that in the past, the critic's goals of rating music and bringing new mu
 but while anybody can find some audience to voice their opinions to, not everybody has the capacity to summon good music from the boundless depths of creation.
 Those that do need to be well-embedded in a scene and listen to a lot of different acts, which takes time.
 As [[https://stevenhyden.substack.com/p/the-real-reason-music-critics-got][Steven Hyden]] points out, criticism has moved past the generalism of people like Robert Christgau and towards this specialization, which is a great thing because it means better
-@@html:{{< sidenote "context" >}}Take a look at his review of The Cure's Pornography for an example of a profound mismatch between critic and subject. If his stuff ever irritates me, it's his presumption, not my disagreement.{{< /sidenote >}}@@
+@@html:{{< sidenote "context" >}}Take a look at Christgau's review of The Cure's Pornography for an example of a profound mismatch between critic and subject.{{< /sidenote >}}@@
 in addition to better discovery.
+The decline of the smug reviewer may have more to do with the fact that smugness disguises ignorance than any trend towards political correctness.
 
 [[https://thequietus.com/][The Quietus]] is an example of discovery done right.
 Nearly everything they review comes from beyond the awareness of their audience and is also exceedingly [[https://thequietus.com/quietus-reviews/rum-music/rum-music-for-september-reviewed-by-jennifer-lucy-allan/][strange]].
 Most of the music that they review does not click with me and is often quite irritating, but the stuff that does click /really/
 @@html:{{< sidenote "clicks." >}}They are how I found Heartworms, which is an incredible band/person that I genuinely cannot recommend enough.{{< /sidenote >}}@@
-They bring the unexpected and have no objection to interviewing obscure artists or pushing records that are beyond any reasonable person's conception of music, so long as it suits their own tastes.
+They bring the unexpected and have no objection to interviewing obscure artists or pushing records that are beyond most people's conception of music, so long as it suits their own tastes.
 Do they ever have bad reviews?
 No, but there is no reason to review anything that they do not like.
 
@@ -356,12 +356,13 @@ Still, most major
 @@html:{{< sidenote "publications" >}}And I'm not talking Rolling Stone or NME, two publications that have surely seen better days (I have not seen them) but are now reduced to celebrity gossip and K-Pop, which is not music so much as it is a nebulous, all-encompassing cultural phenomenon.{{< /sidenote >}}@@
 dedicate a significant amount of space towards lesser-known or up-and-coming artists.
 To say that publications only cover popular artists, however, is to betray a lack of effort.
+If you're actually looking for new music that suits your taste, you can probably find it.
 
-In this age of grand delusion, the critic should be a guide, whether by imposing their own scheme or by drawing attention to the strange lands outside our own.
-They do not mediate the flow of music anymore, if they ever did, but they exist for a reason and should exist for a reason.
+What are critics for?
+It's a presumptuous question from anyone, let alone somebody who is not a critic, but I've read enough to know what I like.
+For me, good criticism guides the reader, whether by evaluating the music by a clear framework, providing context, or directing the reader beyond the limits of their experience.
+Critics do not mediate the flow of music anymore, if they ever did, but they still exist for a reason and should exist for a reason.
 It is unfortunate that these reasons conflict.
-
-[^fn:1]: It's a presumptuous question from anyone, let alone somebody who is not a critic, but I've read enough to know what I like.
 
 * DONE Projects
 :PROPERTIES:
