@@ -233,7 +233,7 @@ Vinyl under my arm, I strolled to Radio Transmitter Park, where I sat on the gra
 I spent a while shuffling between songs on my headphones, then decided that I was wasting my surroundings and took them off.
 The skyline was alright, but the park's charms lay elsewhere.
 It was in the shallow waves splashing against the rocks, the light cadence of distant footsteps, the strange harmony of half-heard conversations, that I was able to find a quiet place.
-** DONE What Are Music Critics For?
+** DONE What Are Music Critics For?                         :@music:thoughts:
 :PROPERTIES:
 :EXPORT_FILE_NAME: post3
 :EXPORT_DATE: 2025-10-05
@@ -363,6 +363,83 @@ It's a presumptuous question from anyone, let alone somebody who is not a critic
 For me, good criticism guides the reader, whether by evaluating the music by a clear framework, providing context, or directing the reader beyond the limits of their experience.
 Critics do not mediate the flow of music anymore, if they ever did, but they still exist for a reason and should exist for a reason.
 It is unfortunate that these reasons conflict.
+
+** DONE Skipping Stones                                     :@places:chicago:
+:PROPERTIES:
+:EXPORT_FILE_NAME: post4
+:EXPORT_DATE: 2025-10-26
+:END:
+
+I went to Indiana Dunes recently, along with fifty other people, as the last among my friends to do so.
+The others went either last year or the year before, so I knew what to expect, but I somehow had trouble reconciling the concept of sand dunes with Indiana in the same way that I laughed at the billboards in Chicago advertising their beaches.
+It's a case of taking what you can get, I suppose.
+
+The club that organized this trip, the Outdoor Adventures Club, is headed by my supremely, obsessively organized friend, who bought a blanket pass for all of us on the South Shore Line.
+I hadn't taken it before, because I do not find myself with a hankering to visit South Bend particularly 
+@@html:{{< sidenote "often." >}}With the exception of my annual pilgrimage to the shrine of centrist icon Mayor Pete, of course.{{< /sidenote >}}@@
+Remains of the route's glory days are hung in the figure of posters in the Harper Library, vibrant Art Noveau advertisements extolling the wonders of the various communities and natural attractions along the shore.
+Nowadays it has a more somber mood, passing as it does through a depleted industrial corridor whose functions have long since been offshored, but beauty remains.
+The homes are brick in Pullman, like the rest of the city, but Victorian in style, and the churches are reminiscent of the Pilsners to the northwest.
+Unlike Pilsen, the streets are empty.
+
+It is a similar story with downtown Gary, which houses numerous Neoclassical and Art Deco buildings but lies largely vacant.
+Gary is a bit of a joke on campus, our local basket of deplorables in the same way that Oakland is the Bay's.
+To be contemptuous towards something as abstract as a city, I think, is a bit
+@@html:{{< sidenote "presumptuous." >}}I am calling myself presumptuous because this is exactly what I feel for Newark, and maybe San Jose.{{< /sidenote >}}@@
+Gary is doing much better than [[https://en.wikipedia.org/wiki/City_West,_Indiana][City West]], formerly located near the beach, which attempted to build a "grand port" on Lake Michigan under a spurious interpretation of a Daniel Webster speech before burning to the ground sometime around 1840.
+
+Walking along the road to the first dune, we passed by a trailer park.
+They are a rarity where I come from, so it was strange to see what appeared to be large and expensive buses with names like "Tiffin Zephyr" and "Holiday Rambler Vacationer", rather than the small RVs that I imagined would have been there.
+I wonder what attracts people to these motor homes.
+I'm sure there are actual homes in the area cheaper than them, and there's not much point in camping if you're going to do it with a kitchen, toilet, and bedroom in tow.
+Maybe it is a cultural quirk I do not understand—of the Midwest, or of the obscenely wealthy. 
+
+One inevitably thinks of the Sahara when dunes are mentioned, and indeed the mounds of sand in Indiana Dunes are, technically, dunes, but they are more of the vegetated, California coast variety.
+They were also a total pain to hike up.
+The slow slide of sand against the step makes ascending a dune a Sisyphean task, and I lack the fanatical conviction of someone who could have deserved such punishment.
+I believe that my whining was justified.
+Reaching the top of the first dune was worth it, though, because it was the perfect slope to slide back down on my butt, an experience so enjoyable that I did it /twice/.
+
+The largest lakes where I come from are small enough to see across, so it is strange to be on the beach of a lake indistinguishable from the
+@@html:{{< sidenote "sea." >}}Yes, Chicago is on the coast, but it's so built up and busy that even when you're on the lake, you aren't struck by the enormity of it.{{< /sidenote >}}@@
+Incredibly enough, the sand was real sand, the waves were real waves, and the breeze was a real breeze.
+The sun wasn't real hot but being fall in the Midwest, its absence was forgivable.
+The Chicago skyline was just about visible from our point of view, but it was far enough away that the horizon obscured all but the tallest buildings.
+It seemed as though the city had flooded.
+
+It did not seem as though there was much left for our group to do.
+We had hiked up a dune, we had slid down a dune, and we had ended up on a chilly beach, which is generally as good as no beach.
+However, this beach had extraordinarily flat stones, and, dropping my bag as if to anchor, I dug up a particularly round one.
+The image and feeling of this stone simultaneously rushed from my eyes and fingers, through my nerves and into my brain, where they stimulated the rather oversized areas responsible for chucking stuff.
+
+I am a prolific thrower of things, if not a particularly skilled one.
+When I used to play tennis regularly, I would get more of a kick out of throwing tennis balls at the wall between points than from actually playing the game.
+I was fascinated with spinning them—in the air, against the ground—which would annoy my sister to no end.
+When the backyard got tiled, I taught myself to bowl, with upturned flower pots as makeshift stumps to aim at.
+As much as I enjoy cricket as a sport, it is the act of bowling in and of itself, of manipulating the ball in the air, that brings me joy.
+I despise batting.
+
+Skipping stones is the purest expression of throwing.
+Playing catch requires other people and throwing a ball as hard as you can requires you to be mindful of your surroundings, but on a large lake with a flat stone, their is nothing stopping you from ripping one along the surface as hard as you can.
+Nothing but the elements, that is.
+On this windy day, the water was choppy enough to turn stone-skipping into an unpredictable and difficult enterprise.
+I strafed the beach for suitable rocks to skip and watched them struggle against the waves before inevitably being swallowed whole.
+I wrote names on them using a chalky stone in the hope that, like the Ram Setu, they would stay afloat.
+Based on my limited sample size, they skipped twice as much.
+When I ran out of round stones, I started throwing long stones like tomahawks (try it, it works, and you get to look like an even bigger idiot doing it).
+Eventually, I was dragged along to the end of the beach by the current of bored people whom I was bound to.
+This was disappointing, so I ate my turkey sandwich, which unfortunately was also disappointing.
+
+We walked to the pavillion in the hopes of getting ice cream, only to find that the place had
+@@html:{{< sidenote "closed for the season." >}}Every sane individual knows that ice cream is perennial.{{< /sidenote >}}@@
+Nobody wanted to spend any money so ten minutes were spent shuffling awkwardly around the cafe-bar.
+If somebody had bought something, everybody would have.
+I whacked the sand out of my shoes, but then we had to walk back out of the park through the sand, so my shoes got sandy again, I complained again, and I whacked the sand out of my shoes again.
+
+A couple of people were late to the station and missed the train back to Hyde Park.
+I'm surprised that seven hours was not enough.
+All I did was chuck stones, and all I got for it was a sore shoulder and sand everywhere.
+On the bright side, I did break my record—25 skips!
 
 * DONE Projects
 :PROPERTIES:
@@ -508,3 +585,119 @@ I am, however, too lazy to make it happen.
 
 Can you solve this Immaculate (Music) Grid?
 file:images/gridgame.png
+
+** DONE Havoc Steve                      :@library:thoughts:musical_stalking:
+:PROPERTIES:
+:EXPORT_FILE_NAME: note4
+:EXPORT_DATE: 2025-10-23
+:END:
+
+I have gotten around to compiling the interesting things I've read over the past couple of weeks.
+Without further ado:
+
+*** Music
+1. [[https://stateofbass.wordpress.com/2013/02/11/siouxsie-sioux-a-teenage-obsession/][Siouxsie Sioux - A Teenage Obsession]]: People laugh at teenage girls for being obsessed with certain artists but it used to be a more common thing, and a more physical thing.
+   This guy had some really interesting experiences with the Banshees in their early days until he fell out of love with them (also, arguably, in their early days).
+   Getting an autograph from Siouxsie Sioux with an Iggy Pop lyric referencing a previous interaction you had with her sounds really cool.
+   On a related note, Iggy's "Sixteen" (from where said lyric comes) is incredible, possibly the closest he got solo to the Stooges' stuff; I'm not sure I vibe with the lyrics, though.
+2. [[https://stevenhyden.substack.com/p/the-bland-ballad-of-jesse-welles][The Bland Ballad of Jesse Wells]]: I will admit that I had not heard of this guy before reading Steven Hyden's piece on him, but it is a good piece that considers the meaning of "protest music".
+   Jesse Wells seems like the prime example of someone who dons the aesthetic of protest music without really sticking his neck out, so he's keeping his cake and eating it too.
+   Also, "he's an Arkansas Muppet rather than a New York Doll" is an all-timer.
+3. [[https://compilationnation.substack.com/p/compilation-nation-mutant-disco][Compilation Nation: Mutant Disco]]: Sydney Salk does some digging into a ZE Records comp, which, if you know anything about ZE Records, is necessarily interesting.
+   Mutant Disco is more winking performance than music, I think, but there are some great songs to come from the label—my faves are Was (Not Was)'s "Tell Me That I'm Dreaming,"
+   the disco version of James White's "Contort Yourself," and Cristina's "Deb Behind Bars" (the alternate version; I have no clue what they were thinking with the original).
+   Here's a curiosity: there's a comp called ZE Records Story 1979/2009 that's entirely late '70s and early '80s stuff except for one song from a band called [[https://drownedinsound.com/in_depth/2820102-discover--michael-dracula][Michael Dracula]].
+   As far as I can tell, ZE Records went defunct in 1984, revived in 2003, released Michael Dracula's
+   @@html:{{< sidenote "single album" >}}It's pretty good—haunting in some places, angry in others, and interesting throughout. Just wish I had the lyrics somewhere.{{< /sidenote >}}@@
+   in 2008 to [[https://www.thelineofbestfit.com/reviews/albums/michael-dracula-in-the-red-2429][a smidge of interest]], and went defunct again some time later without releasing another new artist.
+   The band's singer now runs a record studio.
+
+*** Art
+1. [[https://tina-koyama.blogspot.com/2025/10/pet-portraits-for-inktober.html][Pet Portraits for InkTober]]: Tina Koyama has a great blog on urban sketching in Seattle.
+   I love the pet portraits that she's done here—the eyes are so expressive and it feels like you're getting some of the character of the pets in addition to their likenesses.
+   In other words, the dogs are goofballs and the cat is a stoic creature.
+2. [[https://badmachinery.com/comic/outrageous-good-fortune-savage-sword-of-susan-concludes/][The Savage Sword of Susan]]: I was sad that John Allison's miniseries ended.
+   It felt a bit rushed, to be honest, but it was lots of fun.
+
+*** Other
+1. [[https://www.experimental-history.com/p/thank-you-for-being-annoying][Thank You For Being Annoying]]: The conception of things that drive people as the things in their control that annoy them is an interesting one.
+   I definitely feel that way when I have something that I really want to do, because it distracts me from doing anything else.
+   I don't know if "good annoyance" is the only thing that drives people to do exceptional things but the argument for it being an important factor is a convincing one.
+2. [[https://www.thesecondserve.com/rinderknech-and-vacherot-family-affair/][Family Affair]]: I don't follow tennis as much as I did before Nadal retired (and even then, I was mostly just following Nadal).
+   That is unfortunate because I missed the unfolding of this incredible story of low-ranked cousins making the finals of the /same masters tournament/.
+   What are the chances?
+
+Evidently, an interesting few months.
+Here's the
+@@html:{{< backlink "note1" "previous" >}}@@
+library post for a refresher on what happened before then!
+
+** DONE Siouxsie Miscellanea :@miscellanea:@music:musical_stalking:siouxsie_and_the_banshees:
+:PROPERTIES:
+:EXPORT_FILE_NAME: note5
+:EXPORT_DATE: 2025-10-26
+:END:
+
+For various reasons, I have been @@html:{{< backlink "note4" "reading" >}}@@ a lot about SatB recently.
+They're a fascinating group of people and there's a lot of interviews and whatnot that they've done.
+Some interesting tidbits from the recent readings:
+
+*** The Johns
+There were three Johns who played guitar for the Banshees: McKay, McGeoch, and
+@@html:{{< sidenote "Carruthers." >}}John Valentine Carruthers, which is a great name that rivals my own. There's just something about it.{{< /sidenote >}}@@
+McKay is well-attested to: in addition to his excellent work on the first two albums, he and drummer Kenny Morris were the subject of "Drop Dead/Celebration," the vicious diss track that opened the /Kaleidoscope/ era.
+He also has an [[https://en.wikipedia.org/wiki/Sixes_and_Sevens][album]] of old recordings out this year, which are quite good.
+Previously, the only stuff he had out after SatB that I could find was a single as a member of Zor Gabor, "Tightrope," and it was really good.
+This is more of the same style, jagged and muscular guitarwork complemented by sufficiently gothic sioux-alike vocals, though it doesn't quite reach "Tightrope"'s pinnacle.
+Nevertheless, the first track is a ripper.
+
+John McGeoch also had a storied career, having been in Magazine before SatB and
+@@html:{{< sidenote "PiL" >}}Post-Flowers of Romance, unfortunately.{{< /sidenote >}}@@
+afterwards.
+However, I cannot find anything about what happened to Carruthers after he was kicked from the band.
+I'm not even entirely sure why he was kicked, which is curious.
+You'd think that there would at least be /something/ out there!
+
+*** Geraldo Pino
+
+Hyaena is one of my least favorite Siouxsie albums (in the same sense that caramel is my least favorite ice cream flavor)
+because its production reminds me of a boy's locker room after PE, and also because leans a bit too far towards exotica.
+The band was always obsessed with the strange, and what's stranger than a foreigner?
+Hence the somewhat
+@@html:{{< sidenote "misinformed" >}}The questions Siouxsie got in interviews about her stage name, and the answers she gave, are good for a awkward laugh.{{< /sidenote >}}@@
+"Hong Kong Garden" and "Arabian Nights," which are both catchy songs but also represent, to me, the band at its weakest.
+A good chunk of Hyaena has this sort of dynamic, and a clear example is "[[https://www.youtube.com/watch?v=x9kqoDbAtIM][Take Me Back]]," which draws its keyboard melodies from '70s afro-funk.
+A point of reference is Geraldo Pino's "[[https://youtu.be/EDUbBh74iG8?t=43][Let Them Talk]]," which has the same pattern with the chorus and a similar pentatonic thing going on with the
+@@html:{{< sidenote "organ," >}}Can you tell that I don't know my theory?{{< /sidenote >}}@@
+which also has a similar tone.
+Siouxsie's version is supposed to be colder and creepier but I think it comes off as anemic.
+
+
+*** Julie Burchill
+
+In my
+@@html:{{< backlink "post3" "music criticism" >}}@@
+post, I noted that the mean reviews that were seemingly more common in the past are both fun to read and are often more representative of the writer's ignorance than the music itself.
+Julie Burchill's [[https://punkrocker.org.uk/punkinterviews/siouxsiereview.html][review]] of /The Scream/ in NME is a great example of this.
+I hadn't heard of Burchill until recently, but I have come to understand that she is a personality in Britain who started off writing bad opinions on music and then expanded to writing bad opinions on everything else, from Iraq to trans people.
+If you're against her on those fronts, you'll be glad to know that this review is 90% bullshit, but it's the /why/ that's interesting.
+
+Burchill might have been the platonic ideal of a bad rock critic, because she seemed to think that [[https://x.com/nme1980s/status/1807845374784114715/photo/1][all music is written for her]], generally faced backwards, and was a bit of a [[https://archive.is/XGXOG][troll]].
+If Lester Bangs had a stick up his intestine and was drugged incoherent... he would still be more readable and more insightful.
+It is no surprise, therefore, that Burchill dogmatically despised punk.
+Anyways, I find the style of the review interesting. When Burchill says "I will NOT tolerate over-made-up, non-starter gangs in my classroom," about Japan and Ultravox, it's probably sincere criticism disguised as sarcasm.
+It is also the second most sensical sentence in the review.
+The rest of the piece is a surprisingly angry tirade—against dressing a certain way ("wear a mass of make-up and look asexual"), instrumentals ("as pretentious as shit"), and speaking ("blind the critics with words and silence").
+To this, Siouxie's [[https://web.archive.org/web/20091022132945/http://www.geocities.com/vintageinterviews/siouxsie.html][response]]—also in NME—is a good one:
+
+"If someone said something genuinely constructive but heavily critical — and on reasonable grounds — it would sink in a lot more.
+I wouldn't just think they were being stupid for no reason at all. I'd probably question it with myself... She's not doing anything being a journalist, just being negative."
+
+The flip side is that she's right on the money regarding Siouxsie's flirtations with fascist imagery at the time.
+In addition to her wearing a Nazi swastika in '76 (two years before this review), an earlier version of "Love in a Void" had the line "too many Jews for my liking," though it didn't make the single.
+The justifications have been varied enough to merit [[https://researchprofiles.ku.dk/en/activities/no-matter-how-often-i-explain-it-the-hermeneutics-of-siouxsie-sio/][academic scrutiny]], and it seems as though many punk journalists were soft on that sort of thing.
+Times have changed, as the response to more [[https://www.reddit.com/r/kpop/comments/11xl1fd/chaeyoung_twice_apologizes_for_the_recent_shirt/][recent]] and unintentional uses of the Nazi swastika suggests, and Siouxsie's usage of it is a pretty common criticism levied against her now.
+It's a very different context from NSBM, of course, but it's also pretty instructive as to how reflexive contrarianism can lead young people to the right.
+Just look at Johnny Rotten's politics!
+Julie reveals herself, however, in castigating Jewish critics for being insufficiently mad about it.
+Weaponizing identity is a pattern for her, and one must respect the fact that she learned how to do so well before it became fashionable.

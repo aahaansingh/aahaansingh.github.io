@@ -2,6 +2,8 @@
 title = "What Are Music Critics For?"
 author = ["Aahaan Singh"]
 date = 2025-10-05
+tags = ["thoughts"]
+categories = ["music"]
 draft = false
 +++
 
