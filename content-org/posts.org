@@ -355,7 +355,7 @@ Finding something new on there becomes an excercise in discovery.
 Still, most major
 @@html:{{< sidenote "publications" >}}And I'm not talking Rolling Stone or NME, two publications that have surely seen better days (I have not seen them) but are now reduced to celebrity gossip and K-Pop, which is not music so much as it is a nebulous, all-encompassing cultural phenomenon.{{< /sidenote >}}@@
 dedicate a significant amount of space towards lesser-known or up-and-coming artists.
-To say that publications only cover popular artists, however, is to betray a lack of effort.
+To say that publications only cover popular artists, therefore, is to betray a lack of effort.
 If you're actually looking for new music that suits your taste, you can probably find it.
 
 What are critics for?
@@ -389,7 +389,7 @@ To be contemptuous towards something as abstract as a city, I think, is a bit
 Gary is doing much better than [[https://en.wikipedia.org/wiki/City_West,_Indiana][City West]], formerly located near the beach, which attempted to build a "grand port" on Lake Michigan under a spurious interpretation of a Daniel Webster speech before burning to the ground sometime around 1840.
 
 Walking along the road to the first dune, we passed by a trailer park.
-They are a rarity where I come from, so it was strange to see what appeared to be large and expensive buses with names like "Tiffin Zephyr" and "Holiday Rambler Vacationer", rather than the small RVs that I imagined would have been there.
+They are a rarity where I come from, so it was strange to see what appeared to be large and expensive buses with names like "Tiffin Zephyr" and "Holiday Rambler Vacationer," rather than the small RVs that I imagined would have been there.
 I wonder what attracts people to these motor homes.
 I'm sure there are actual homes in the area cheaper than them, and there's not much point in camping if you're going to do it with a kitchen, toilet, and bedroom in tow.
 Maybe it is a cultural quirk I do not understand—of the Midwest, or of the obscenely wealthy. 
@@ -405,7 +405,7 @@ The largest lakes where I come from are small enough to see across, so it is str
 Incredibly enough, the sand was real sand, the waves were real waves, and the breeze was a real breeze.
 The sun wasn't real hot but being fall in the Midwest, its absence was forgivable.
 The Chicago skyline was just about visible from our point of view, but it was far enough away that the horizon obscured all but the tallest buildings.
-It seemed as though the city had flooded.
+It looked as though the city had flooded.
 
 It did not seem as though there was much left for our group to do.
 We had hiked up a dune, we had slid down a dune, and we had ended up on a chilly beach, which is generally as good as no beach.
@@ -426,7 +426,7 @@ On this windy day, the water was choppy enough to turn stone-skipping into an un
 I strafed the beach for suitable rocks to skip and watched them struggle against the waves before inevitably being swallowed whole.
 I wrote names on them using a chalky stone in the hope that, like the Ram Setu, they would stay afloat.
 Based on my limited sample size, they skipped twice as much.
-When I ran out of round stones, I started throwing long stones like tomahawks (try it, it works, and you get to look like an even bigger idiot doing it).
+When I ran out of round stones, I started throwing long stones like tomahawks (try it—they're easier to skip that way /and/ you get to look like an even bigger idiot doing it).
 Eventually, I was dragged along to the end of the beach by the current of bored people whom I was bound to.
 This was disappointing, so I ate my turkey sandwich, which unfortunately was also disappointing.
 
@@ -440,6 +440,83 @@ A couple of people were late to the station and missed the train back to Hyde Pa
 I'm surprised that seven hours was not enough.
 All I did was chuck stones, and all I got for it was a sore shoulder and sand everywhere.
 On the bright side, I did break my record—25 skips!
+
+** DONE Steiners                           :@music:thoughts:stina_nordenstam:
+:PROPERTIES:
+:EXPORT_FILE_NAME: post5
+:EXPORT_DATE: 2025-11-19
+:END:
+Stina Nordenstam is one of those strange figures that I am only aware of because of the internet.
+She's a Swedish songwriter who was active in the '90s and early 2000s, but she hasn't released an album in two decades or left a trace online in one, and has therefore in one way ceased to exist.
+Regular readers (myself) will notice the appearance of the [[https://aahaansingh.github.io/tags/musical-stalking/][musical stalking]] tag on a lot of my music-related posts because I'm naturally disposed towards falling into rabbitholes, and in any case they're
+half of @@html:{{< backlink "post3" "what's interesting" >}}@@ about music writing to me.
+With Nordenstam, though, I can't really find anything after [[https://www.totallystockholm.se/stina-nordenstam/][2013]].
+Supposedly (according to [[https://forums.stevehoffman.tv/threads/whatever-happened-to-stina-nordenstam.1179320/][random]] [[https://rateyourmusic.com/release/album/stina-nordenstam/the-world-is-saved/][forum]] posts), she had an accident working on her next album and just stopped releasing music.
+Whatever the case, her current albums remain.
+
+/The World Is Saved/ came to me through RYM's dream pop charts, as did most of the music I listened to over COVID.
+It is not "dream pop," though, at least not in the modern use of the term.
+These days, bands labeled as such usually play a softer form of shoegaze or some reverb-laden form of indie, which are nearly the same thing.
+Before shoegaze got big, though, dream pop was a description of an album's atmosphere and effect, which is how bands as diverse as Cocteau Twins and Broadcast have ended up in the same category.
+Much like "goth," the term coalesced into a genre that is a bit of a pastiche of its canonical
+@@html:{{< sidenote "forms." >}}I always thought that SatB's Peepshow was more of a dream pop album in the traditional sense than a goth one.{{< /sidenote >}}@@
+
+Anyways, /The World Is Saved/ is definitely more of a dream pop vibe than a dream pop form, but it's really neither.
+It is harder to to categorize, a bit jazzy, a bit electronic, and very off-kilter.
+As such, it wasn't at all immediate to me, though it's since become a favorite.
+Still, "Winter Killing" stuck with me enough to give another album of Nordenstam's a listen.
+
+/Dynamite/ is not a particularly easy album to listen to if you are a happy person, but I was not happy in my first year of college and the melancholy suited me.
+It was atmospheric and sufficiently unobtrusive to become a winter staple.
+I would have it on in the background while working, while walking, while eating.
+I liked "CQD" enough that I actually read the lyrics for it—I would not have understood them otherwise, for Nordenstam's voice tends to obscure what she sings.
+I had this vague notion that the song was about heartbreak (which I had not experienced) but sadness is universal and I guess that heartbreak is its own form of loneliness
+so I was able to project the feeling into a space that I could understand.
+Back then, I used to view music as a way to soundtrack my life (which was necessary to make it interesting), and this album was essentially how I saw it.
+As such, when I reviewed it back then, I described it as "world-weary and melancholic."
+
+That is, however, a shockingly poor description of the album, because, while it's not wrong, it misses the
+@@html:{{< sidenote "point." >}}It makes more sense to interpret as projection.{{< /sidenote >}}@@
+Take "This Time, John."
+This song recounts the story of John Hron, a Swedish teen who was violently murdered by neo-Nazi skinheads the year before /Dynamite/'s release.
+That in itself is not unique—pretty much every extreme metal band has at least one song about killing (if they don't have a member who's done it)—but Nordenstam's quiet delivery is deeply unsettling.
+It sounds cold and calculated, as though recounting a crime of intention rather than a crime of passion.
+The scary thing about serial killers is that they are methodical and emotionless, so there is no way to understand them.
+You can speculate as to why they are the way they are, but it can never go beyond the intellectual.
+To me, this song evokes the same sort of fear, a confronting of something too terrible to rationalize.
+It is simply too undramatic to be anything but real.
+
+Melancholy, then, is a bit of an understatement.
+The entire album is riddled with violence, though it is hard to tell without actually listening.
+"Mary Bell's" eponymous character was a child who murdered other children, while "The Man With The Gun" imagines being confronted by such a situation.
+The most harrowing of all is "Until."
+It has the lyrical violence of "This Time, John" but the instrumentals are more intimate and direct and loud, a release of tension as cold rage.
+It's also heavy by pretty much any standard you can think of, heavier than anything else that came out of Sweden in the '90s.
+As background music, it is merely dramatic, but with context, it is terrifying.
+
+There is a comment on the RYM page for this album speculating that it is about the motivations of a killer, or a hitwoman.
+I thought this was very silly when I read it a month ago, but it prompted me to give the album a closer listen and to look at the actual lyrics, which I had never done for most of the songs.
+In doing so, I was shocked, not necessarily because I agree with this interpretation (though it has some merit), but because paying closer attention to the music caused it to affect me in a far more visceral way.
+Everything snapped together, like I was watching a movie after only hearing the soundtrack.
+What a horribly depressing movie it was!
+That alone was enough to ruin my morning, but I was also angry that I had completely misunderstood what I had thought to be one of my favorite albums.
+How could I appreciate something in such a shallow manner?
+To transmute this emotion into accompaniment for /my/ life felt perverse.
+
+If the hitwoman theory is a bit of a stretch, it is at least evident that the album is the work of someone who was deeply hurt (and possibly murderous) when they made it.
+Some things cannot be imagined by people in a level state of mind, at least not without art.
+Beyond that, I don't think anybody who is actually distant from what they write would say that they [[https://stinanordenstam.fortunecity.ws/interviews/1999_dn_eng.html][create music]] "to earn money" and because "it's a little interesting."
+In the same way that pretense is a shield for vacuity, someone who has revealed too much will relentlessly backtrack on it.
+You can't have so much disdain for something you created—and really, if there's one thing that [[https://stinanordenstam.fortunecity.ws/interviews/2004_etc_en.html][stands out]] in her
+@@html:{{< sidenote "interviews," >}}You should read the whole interview, there is something really strange about it—the subject, for one. I haven't read anything else like it.{{< /sidenote >}}@@
+it's self-criticism—if you didn't put something of yourself in the process.
+
+Never have I heard sentiment so purely expressed as in /Dynamite/.
+Is it even worth making music as art if it cannot achieve what this has for someone?
+
+
+
+
 
 * DONE Projects
 :PROPERTIES:

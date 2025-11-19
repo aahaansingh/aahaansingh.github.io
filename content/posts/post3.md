@@ -131,7 +131,7 @@ Finding something new on there becomes an excercise in discovery.
 Still, most major
 {{< sidenote "publications" >}}And I'm not talking Rolling Stone or NME, two publications that have surely seen better days (I have not seen them) but are now reduced to celebrity gossip and K-Pop, which is not music so much as it is a nebulous, all-encompassing cultural phenomenon.{{< /sidenote >}}
 dedicate a significant amount of space towards lesser-known or up-and-coming artists.
-To say that publications only cover popular artists, however, is to betray a lack of effort.
+To say that publications only cover popular artists, therefore, is to betray a lack of effort.
 If you're actually looking for new music that suits your taste, you can probably find it.
 
 What are critics for?

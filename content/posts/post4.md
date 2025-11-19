@@ -26,7 +26,7 @@ To be contemptuous towards something as abstract as a city, I think, is a bit
 Gary is doing much better than [City West](https://en.wikipedia.org/wiki/City_West,_Indiana), formerly located near the beach, which attempted to build a "grand port" on Lake Michigan under a spurious interpretation of a Daniel Webster speech before burning to the ground sometime around 1840.
 
 Walking along the road to the first dune, we passed by a trailer park.
-They are a rarity where I come from, so it was strange to see what appeared to be large and expensive buses with names like "Tiffin Zephyr" and "Holiday Rambler Vacationer", rather than the small RVs that I imagined would have been there.
+They are a rarity where I come from, so it was strange to see what appeared to be large and expensive buses with names like "Tiffin Zephyr" and "Holiday Rambler Vacationer," rather than the small RVs that I imagined would have been there.
 I wonder what attracts people to these motor homes.
 I'm sure there are actual homes in the area cheaper than them, and there's not much point in camping if you're going to do it with a kitchen, toilet, and bedroom in tow.
 Maybe it is a cultural quirk I do not understand—of the Midwest, or of the obscenely wealthy.
@@ -42,7 +42,7 @@ The largest lakes where I come from are small enough to see across, so it is str
 Incredibly enough, the sand was real sand, the waves were real waves, and the breeze was a real breeze.
 The sun wasn't real hot but being fall in the Midwest, its absence was forgivable.
 The Chicago skyline was just about visible from our point of view, but it was far enough away that the horizon obscured all but the tallest buildings.
-It seemed as though the city had flooded.
+It looked as though the city had flooded.
 
 It did not seem as though there was much left for our group to do.
 We had hiked up a dune, we had slid down a dune, and we had ended up on a chilly beach, which is generally as good as no beach.
@@ -63,7 +63,7 @@ On this windy day, the water was choppy enough to turn stone-skipping into an un
 I strafed the beach for suitable rocks to skip and watched them struggle against the waves before inevitably being swallowed whole.
 I wrote names on them using a chalky stone in the hope that, like the Ram Setu, they would stay afloat.
 Based on my limited sample size, they skipped twice as much.
-When I ran out of round stones, I started throwing long stones like tomahawks (try it, it works, and you get to look like an even bigger idiot doing it).
+When I ran out of round stones, I started throwing long stones like tomahawks (try it—they're easier to skip that way _and_ you get to look like an even bigger idiot doing it).
 Eventually, I was dragged along to the end of the beach by the current of bored people whom I was bound to.
 This was disappointing, so I ate my turkey sandwich, which unfortunately was also disappointing.
 
