@@ -85,6 +85,8 @@ This can come in a variety of forms—one could clarify the circumstances behind
 In the latter case, the context is the critic's lense, their opinion on what was conveyed and how.
 It is the force that really enables the critic to mold the tastes of their audience.
 
+{{< figure src="/ox-hugo/supper.png" >}}
+
 This, I think, is what is missing from a lot of reviews on major publications, and it makes reading them less interesting and fun.
 Reviews feel anonymized, as though anybody could have written them, as though one writer could be replaced with another and the editorial tone would not change.
 I want to know what the reviewer _feels_, not just what they think, and why they feel that way, because music is ultimately about emotion.

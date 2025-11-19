@@ -27,6 +27,8 @@ It is harder to to categorize, a bit jazzy, a bit electronic, and very off-kilte
 As such, it wasn't at all immediate to me, though it's since become a favorite.
 Still, "Winter Killing" stuck with me enough to give another album of Nordenstam's a listen.
 
+{{< figure src="/ox-hugo/dynamite.jpg" >}}
+
 _Dynamite_ is not a particularly easy album to listen to if you are a happy person, but I was not happy in my first year of college and the melancholy suited me.
 It was atmospheric and sufficiently unobtrusive to become a winter staple.
 I would have it on in the background while working, while walking, while eating.
@@ -63,6 +65,8 @@ What a horribly depressing movie it was!
 That alone was enough to ruin my morning, but I was also angry that I had completely misunderstood what I had thought to be one of my favorite albums.
 How could I appreciate something in such a shallow manner?
 To transmute this emotion into accompaniment for _my_ life felt perverse.
+
+{{< figure src="/ox-hugo/inter1.jpeg" >}}
 
 If the hitwoman theory is a bit of a stretch, it is at least evident that the album is the work of someone who was deeply hurt (and possibly murderous) when they made it.
 Some things cannot be imagined by people in a level state of mind, at least not without art.

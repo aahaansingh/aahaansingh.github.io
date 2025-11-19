@@ -19,6 +19,8 @@ Nowadays it has a more somber mood, passing as it does through a depleted indust
 The homes are brick in Pullman, like the rest of the city, but Victorian in style, and the churches are reminiscent of the Pilsners to the northwest.
 Unlike Pilsen, the streets are empty.
 
+{{< figure src="/ox-hugo/dunes.jpg" >}}
+
 It is a similar story with downtown Gary, which houses numerous Neoclassical and Art Deco buildings but lies largely vacant.
 Gary is a bit of a joke on campus, our local basket of deplorables in the same way that Oakland is the Bay's.
 To be contemptuous towards something as abstract as a city, I think, is a bit
@@ -43,6 +45,8 @@ Incredibly enough, the sand was real sand, the waves were real waves, and the br
 The sun wasn't real hot but being fall in the Midwest, its absence was forgivable.
 The Chicago skyline was just about visible from our point of view, but it was far enough away that the horizon obscured all but the tallest buildings.
 It looked as though the city had flooded.
+
+{{< figure src="/ox-hugo/chicago.png" >}}
 
 It did not seem as though there was much left for our group to do.
 We had hiked up a dune, we had slid down a dune, and we had ended up on a chilly beach, which is generally as good as no beach.
