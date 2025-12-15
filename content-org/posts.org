@@ -798,11 +798,11 @@ Weaponizing identity is a pattern for her, and one must respect the fact that sh
 Taking required art courses, as marginalized as they are, is a privilege of the university.
 The best class I have taken in college was a class offered by the creative writing department about making comics.
 The second best was a class I just took, also by the creative writing department, on graphic design.
-I suppose that the graphic design department is to the college what protists are to the tree of life.
+I suppose that the creative writing department is to the college what protists are to the tree of life.
 
 I say "marginalized" because art feels like an aside in the University of Chicago.
 On a meta level, most of the buildings that the university builds these days are ugly.
-On a practical level, most art-related resources are located in the
+On a physical level, most art-related resources are located in the
 @@html:{{< sidenote "Logan Center," >}}Which is nevertheless a great building, in terms of how it looks and what it contains.{{< /sidenote >}}@@
 right on the edge of campus.
 On an academic level, art course offerings are pretty thin and are often stuffed into three-hour slots once per weeks as opposed to two or three meetings per week for the same amount of time,
@@ -846,3 +846,49 @@ As a bonus, here's a poster I did for the previous project, which was to express
 I measured it in terms of articles that I read on my RSS Reader.
 Unlike the object project, I am unreservedly pleased with how it turned out.
 @@html:{{< embed-pdf url="../../ox-hugo/gd_12_25/Poster2.indd.pdf" >}}@@
+
+** DONE Demon Sheep                                       :@library:politics:
+:PROPERTIES:
+:EXPORT_FILE_NAME: note7
+:EXPORT_DATE: 2025-12-15
+:END:
+
+Another edition of interesting things that I have encountered online.
+
+*** Music
+[[https://pennyblackmusic.co.uk/Home/Details?Id=28579][Adrian Janes Interviews Adrian Borland]]: To me, The Sound is the essential post-punk band.
+/Jeopardy/ and /From the Lions Mouth/ are passionate and steely works that hit you in the face with their sincerity.
+If there's one thing you'll read about The Sound, though, it's that they're underrated, which probably isn't true now but was back when they played.
+Now, we have a wealth of insight into the workings of the band because Penny Black Music has released so many interviews of the people involved in it.
+Adrian Janes, who was in the band that would become The Sound, interviews lead singer/guitarist Adrian Borland in this multi-part interview and it's really interesting to hear about the sort of struggles
+he had in leading a band that was too successful to be a side gig but not as successful as it deserved to be.
+
+[[https://thequietus.com/opinion-and-essays/anniversary/pulp-different-class-review/][Something Changed: Pulp’s Different Class Revisited]]: I've been listening to a lot more Pulp over the past few months, so this wonderfully sober essay on Different Class came at the right time, or, I guess, precisely ten years early.
+I will never live this album out but I understand it better now.
+
+*** Tales
+[[https://www.late-review.com/p/the-mirror-self][the mirror-self]]: Not as adept as some of the other essays that Kate Wagner has written over the past year, but one of the most immediate.
+It made me think about whom I am writing for, and I think that it is some reflection of myself.
+My journal is ostensibly a record for my future self, and I do read back over it sometimes, but it doesn't feel like I'm reading something that was addressed to me.
+Similarly, I'm supposed to be writing this blog for my future self and the randos who stumble across it but I haven't really internalized that.
+I write with one part of my head and simultaneously edit with another part, so in that sense I am writing to the editor in me, but for whom is my editor editing?
+
+[[https://burialmagazine.neocities.org/imbringingtheclasswartonantucket][I'm Bringing the Class War to Nantucket]]: I still don't understand this but it is extremely funny.
+It is clearly an insane caricature but also cuts very close to the bone, both of which are hallmarks of good satire.
+
+*** Politics
+[[https://sfstandard.com/2025/11/15/san-francisco-daniel-lurie-isabella-beya-alcaraz/][The 200-hour supervisor]]: This is the strange story of how a pet store owner became an SF City Supervisor before being exposed for being a bad pet store owner.
+It still makes no sense and there's probably a lot about the situation that we still do not know.
+
+[[https://newsletter.tysonbrody.com/p/jasmine-crocketts-blue-chip-strategy][Jasmine Crockett's Blue Chip Strategy]]: Talarico's funded by gambling interests, but Crockett's funnelling insane amounts of crypto money in the hype machine.
+If you'd like her to consult for you, [[https://theclapbackcollection.com/services/][you know where to look]].
+
+[[https://www.youtube.com/watch?v=H_GXTqyd4OI][Demon Sheep]]: The greatest ad, political or otherwise, of all time.
+
+*** Random Things
+[[https://dynomight.substack.com/p/colors][Chimerical Colors]]: If you desensitize some of your cones by staring at a color field and activate the others, you can see colors that no physical object could possibly have.
+You can see an impossibly deep blue or an incredibly pure shade of green.
+This is the same principle behind the color olo, which is only seen by stimulating a specific type of cone cell with lasers.
+
+[[https://www.eileenie.net/][Eileen Ahn's Personal Site]]: What a cool website!
+For those who don't despise frontend, the sky's the limit...

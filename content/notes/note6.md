@@ -9,11 +9,11 @@ draft = false
 Taking required art courses, as marginalized as they are, is a privilege of the university.
 The best class I have taken in college was a class offered by the creative writing department about making comics.
 The second best was a class I just took, also by the creative writing department, on graphic design.
-I suppose that the graphic design department is to the college what protists are to the tree of life.
+I suppose that the creative writing department is to the college what protists are to the tree of life.
 
 I say "marginalized" because art feels like an aside in the University of Chicago.
 On a meta level, most of the buildings that the university builds these days are ugly.
-On a practical level, most art-related resources are located in the
+On a physical level, most art-related resources are located in the
 {{< sidenote "Logan Center," >}}Which is nevertheless a great building, in terms of how it looks and what it contains.{{< /sidenote >}}
 right on the edge of campus.
 On an academic level, art course offerings are pretty thin and are often stuffed into three-hour slots once per weeks as opposed to two or three meetings per week for the same amount of time,
