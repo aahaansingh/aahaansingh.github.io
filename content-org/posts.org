@@ -527,12 +527,10 @@ Is it even worth making music as art if it cannot achieve what this has for some
 
 
 
-
 * DONE Projects
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: projects
 :END:
-
 
 ** DONE Batting Collapse                                    :@sports:@tech:cricket:
 :PROPERTIES:
@@ -546,19 +544,13 @@ As such, cricket is pretty much the ideal proving ground for new skills that I l
 I've documented some of my cricket projects [[https://medium.com/@aahaansingh][here]], along with some of my hopefully interesting findings.
 My analysis is based on data from [[https://cricsheet.org/][Cricsheet]], which I process using [[https://github.com/aahaansingh/CricBase][this]] tool.
 
-
-
 ** DONE Celadon                                                 :@apps:@tech:
 :PROPERTIES:
 :EXPORT_FILE_NAME: proj2
 :EXPORT_DATE: 2025-09-05
 :END:
 
-I'm working on an [[https://github.com/aahaansingh/Celadon/tree/main][RSS reader desktop app]] in Tauri (not a novel idea, but I'm looking to brush up on my Rust)[^fn:1]. Let this page serve as a testament to my will to actually complete it.
-
-[^fn:1]: And I have a somewhat expansive list of feeds so I figure that it's worth customizing my experience.
-
-
+I'm working on an [[https://github.com/aahaansingh/Celadon/tree/main][RSS reader desktop app]] in Tauri (not a novel idea, but I'm looking to brush up on my Rust).
 
 ** DONE Neural Net                                                :@ml:@tech:
 :PROPERTIES:
@@ -567,6 +559,7 @@ I'm working on an [[https://github.com/aahaansingh/Celadon/tree/main][RSS reader
 :END:
 
 I implemented a neural network in NumPy—I get the impression that it is a rite of passage. You can check it out [[https://github.com/aahaansingh/NeuralNet][here]]!
+
 
 * DONE Notes
 :PROPERTIES:
@@ -663,7 +656,6 @@ When people talk about how productive legislators are, they focus on the number 
 While there's more to being a legislator than writing impactful legislation (because enacting change takes many forms), I think that it would be a useful method of evaluation.
 I am, however, too lazy to make it happen.
 
-
 ** DONE Immaculate Grid                                        :@miscellanea:
 :PROPERTIES:
 :EXPORT_FILE_NAME: note3
@@ -758,7 +750,6 @@ A point of reference is Geraldo Pino's "[[https://youtu.be/EDUbBh74iG8?t=43][Let
 @@html:{{< sidenote "organ," >}}Can you tell that I don't know my theory?{{< /sidenote >}}@@
 which also has a similar tone.
 Siouxsie's version is supposed to be colder and creepier but I think it comes off as anemic.
-
 
 *** Julie Burchill
 
