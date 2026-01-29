@@ -2,7 +2,7 @@
 title = "Queen Margaret"
 author = ["Aahaan Singh"]
 date = 2026-01-12
-tags = ["books", "thoughts"]
+tags = ["books"]
 categories = ["history"]
 draft = false
 +++

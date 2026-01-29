@@ -2,7 +2,7 @@
 title = "Music, To My Ears"
 author = ["Aahaan Singh"]
 date = 2025-09-18
-tags = ["new-york"]
+tags = ["new-york", "real-life"]
 categories = ["music"]
 draft = false
 +++

@@ -2,7 +2,7 @@
 title = "Skipping Stones"
 author = ["Aahaan Singh"]
 date = 2025-10-26
-tags = ["chicago"]
+tags = ["chicago", "real-life"]
 categories = ["places"]
 draft = false
 +++
@@ -61,7 +61,7 @@ As much as I enjoy cricket as a sport, it is the act of bowling in and of itself
 I despise batting.
 
 Skipping stones is the purest expression of throwing.
-Playing catch requires other people and throwing a ball as hard as you can requires you to be mindful of your surroundings, but on a large lake with a flat stone, their is nothing stopping you from ripping one along the surface as hard as you can.
+Playing catch requires other people and throwing a ball as hard as you can requires you to be mindful of your surroundings, but on a large lake with a flat stone, there is nothing stopping you from ripping one along the surface as hard as you can.
 Nothing but the elements, that is.
 On this windy day, the water was choppy enough to turn stone-skipping into an unpredictable and difficult enterprise.
 I strafed the beach for suitable rocks to skip and watched them struggle against the waves before inevitably being swallowed whole.
