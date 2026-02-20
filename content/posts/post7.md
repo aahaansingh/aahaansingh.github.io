@@ -41,7 +41,7 @@ The rest of the TwoSet set is similarly bad, so I was a bit sad to hear that tho
 They came back five months later, though, so they got to
 {{< backlink "note4" "keep their cake and eat it, too." >}}
 
-While the production value makes it clear that those songs were inspired by K-Pop (which makes the Blackpink song doubly bad), they are poor imitations of the real product.
+While the production value makes it clear that those songs were inspired by K-Pop, they are poor imitations of the real product.
 K-Pop is very much ahead of the times compared to the US (and the rest of the world) in terms of how their music sounds, how their music videos look, and how they market their stars.
 People don't love pop stars for their music alone, whether they be Korean or otherwise, but the K-Pop model of entertainment is a far broader and more ruthless vision than anything the American industry has dreamt up.
 For one, even the illusion of creative control has been abolished.

@@ -47,7 +47,7 @@ It was here that she wrote her memoirs.
 
 {{< figure src="/ox-hugo/usson.jpg" >}}
 
-By virtue of their age and the importance of their author, _The Memoirs of Margaret of Valois_ is both a historical document and a work of literature, a mixture that appeals to me.
+By virtue of its age and the importance of its author, _The Memoirs of Margaret of Valois_ is both a historical document and a work of literature, a mixture that appeals to me.
 I thought that it would be interesting to read the recollections of somebody central to the internal struggles of France at the time, especially since, being in literary form, they would hopefully be readable.
 Another point of note is that Margaret's legacy has been [complicated](https://archive.org/details/queenmargot01duma/page/n7/mode/2up) by the political and cultural agendas both of her era and of more recent times, which have painted her as sexually promiscuous and morally lacking.
 This was already becoming clear by the time that the memoirs were being
@@ -82,7 +82,7 @@ Memoirs invariably attempt to paint their subject in the best possible light, an
 She portrays her political actions as being grounded in moral behavior—her quarrel with the king is due to his terrible advisors (and not him), her alliance with Francis is born of sisterly love, and her marriage is loyal, if troubled.
 There may be some truth to this, but the royal family was highly politicized and Margaret acted in her own self-interest in order to ensure her survival.
 Her conduct was not spotless.
-For example, she plotted with Francis and her husband to exclude her brother Henry from the line of succession while he was away from court, reigning as King of Poland-Lithuania.
+For example, she plotted with Francis and her husband to exclude her brother Henry from the line of succession while he was away from court and reigning as King of Poland-Lithuania.
 The plan was scuttled when Charles died and Henry managed to sneak out of Poland to claim the French throne, but it greatly escalated the tensions between siblings.
 Later, her defection to the Catholic League may have been prudent—had she remained at Navarre's court, she would have been disposable and thus endangered—but such a nakedly self-interested move cannot be justified on moral grounds.
 In the end, though, her decision paid off.
