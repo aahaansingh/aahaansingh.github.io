@@ -3,7 +3,7 @@ title = "Siouxsie Miscellanea"
 author = ["Aahaan Singh"]
 date = 2025-10-26
 tags = ["musical-stalking", "siouxsie-and-the-banshees"]
-categories = ["miscellanea", "music"]
+categories = ["miscellanea", "music", "art"]
 draft = false
 +++
 

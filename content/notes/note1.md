@@ -3,7 +3,7 @@ title = "Library"
 author = ["Aahaan Singh"]
 date = 2025-09-06
 tags = ["thoughts"]
-categories = ["library"]
+categories = ["library", "tech", "music"]
 draft = false
 +++
 

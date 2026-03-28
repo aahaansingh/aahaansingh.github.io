@@ -2,8 +2,7 @@
 title = "Demon Sheep"
 author = ["Aahaan Singh"]
 date = 2025-12-15
-tags = ["politics"]
-categories = ["library"]
+categories = ["library", "music", "politics"]
 draft = false
 +++
 

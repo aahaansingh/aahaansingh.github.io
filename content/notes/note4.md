@@ -3,7 +3,7 @@ title = "Havoc Steve"
 author = ["Aahaan Singh"]
 date = 2025-10-23
 tags = ["thoughts", "musical-stalking"]
-categories = ["library"]
+categories = ["library", "music"]
 draft = false
 +++
 

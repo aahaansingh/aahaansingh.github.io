@@ -853,7 +853,7 @@ Interest is so low that anybody who wanted to do it could do it, but nobody want
 I certainly don't.
 If you want to take matters into your own hands, though, maybe you can make the trains run on time!
 
-** DONE Celadon v0.1.0                                                :@tech:
+** DONE Celadon v0.1.0                                                :@tech:i_did_a_thing:
 :PROPERTIES:
 :EXPORT_FILE_NAME: post9
 :EXPORT_DATE: 2026-03-18
@@ -994,7 +994,7 @@ My analysis is based on data from [[https://cricsheet.org/][Cricsheet]], which I
 :EXPORT_HUGO_SECTION: notes
 :END:
 
-** DONE Library                                           :@library:thoughts:
+** DONE Library                                           :@library:@tech:@music:thoughts:
 :PROPERTIES:
 :EXPORT_FILE_NAME: note1
 :EXPORT_DATE: 2025-09-06
@@ -1093,7 +1093,7 @@ I am, however, too lazy to make it happen.
 Can you solve this Immaculate (Music) Grid?
 file:images/gridgame.png
 
-** DONE Havoc Steve                      :@library:thoughts:musical_stalking:
+** DONE Havoc Steve                      :@library:@music:thoughts:musical_stalking:
 :PROPERTIES:
 :EXPORT_FILE_NAME: note4
 :EXPORT_DATE: 2025-10-23
@@ -1139,7 +1139,7 @@ Here's the
 @@html:{{< backlink "note1" "previous" >}}@@
 library post for a refresher on what happened before then!
 
-** DONE Siouxsie Miscellanea :@miscellanea:@music:musical_stalking:siouxsie_and_the_banshees:
+** DONE Siouxsie Miscellanea :@miscellanea:@music:@art:musical_stalking:siouxsie_and_the_banshees:
 :PROPERTIES:
 :EXPORT_FILE_NAME: note5
 :EXPORT_DATE: 2025-10-26
@@ -1266,7 +1266,7 @@ I measured it in terms of articles that I read on my RSS Reader.
 Unlike the object project, I am unreservedly pleased with how it turned out.
 @@html:{{< embed-pdf url="../../ox-hugo/gd_12_25/Poster2.indd.pdf" >}}@@
 
-** DONE Demon Sheep                                       :@library:politics:
+** DONE Demon Sheep                                       :@library:@music:@politics:
 :PROPERTIES:
 :EXPORT_FILE_NAME: note7
 :EXPORT_DATE: 2025-12-15
@@ -1323,3 +1323,59 @@ This
 @@html:{{< backlink "note5" "post" >}}@@
 that I wrote a while back was a collection of interesting tidbits that I found over the course of researching for this article.
 Enjoy!
+
+** DONE D'Arvit                              :@library:@music:@tech:@history:
+:PROPERTIES:
+:EXPORT_FILE_NAME: note9
+:EXPORT_DATE: 2026-03-26
+:END:
+
+There is a concern that I will keep repeating the same websites in these collections, but so far that has not been an issue.
+With the new
+@@html:{{< backlink "post9" "RSS Reader," >}}@@
+it has become much easier for me to manage aggregator feeds like [[https://news.ycombinator.com/][Hacker News]] and [[https://lobste.rs/][Lobsters]], so I have access to a bunch of random tech blogs.
+As for the links of interest:
+
+*** Music
+[[https://archive.org/search?query=creator%3A%22NME+-+New+Musical+Express%22&sort=-addeddate][NME on the Internet Archive]]: NME sits at the bottom tier of music publications.
+It is an absolute slop farm that is even worse than Rolling Stone.
+Even Teen Vogue has better music criticism.
+In the '70s and '80s, though, they ran some really interesting essays and interviews.
+Siouxsie has quite a few, as does John Lydon.
+[[https://archive.org/details/nme-19771203/page/6/mode/2up][Here's]] a fun one on The Sex Pistols' obscenity trial, in which an expert witness discusses the origin of the word "bollocks."
+It's sad that you don't see these sorts of features, or that famously irreverent tone, as much in today's music journalism.
+
+[[https://www.nationalreview.com/2026/03/morrissey-unmasks-the-big-lie/][Makeup Is A Lie]]: I thought this song was a joke when I first heard it (and saw the album cover) but apparently there are people who take it seriously.
+I know nothing about movies so I can't say much about Armond White's worthiness as a critic in that regard, but clearly he is not worth reading on music.
+He would have us think that Morissey's idiotic wails of "makeup is a lie" (which make up something like three-quarters of the song) and the song's backing-track production represent a "principled approach" and  "new way of remaking/remodeling pop music."
+This album's hamfistedly conservative lyrics have shades of PiL's latest, which perhaps explains the praise coming from The National Review, but even if you ignore the lyrics, it's terrible music.
+These are the people laughing at Taylor Swift fans!
+
+*** Tech
+[[https://writings.hongminhee.org/2026/03/craft-alienation-llm/][Why Craft-Lovers Are Losing Their Craft]]: An interesting obervation regarding how AI is separating people who like having things made and people who like making things.
+I don't think that this is a hard division (I know that I fall somewhere in between, and it varies based on what I'm making), but it is a real one.
+I also get the sense that the population of coders has been shifting from people who enjoy the craft to people who enjoy the output.
+
+[[https://h14s.p5r.org/2012/09/0x5f3759df.html][Inverse Square Root]]: This code came up in a history class, of all things.
+It's essentially using float-integer conversion plus a log approximation function to quickly compute an inverse square-root three times faster than the standard library function.
+It's outdated now but it's pretty cool that a random game developer came up with this thing.
+
+*** History
+[[https://acoup.blog/2020/01/17/collections-the-fremen-mirage-part-i-war-at-the-dawn-of-civilization/][The Fremen Mirage]]: Bret Devereaux's blog is probably my favorite one out there.
+I don't know how he manages to write about interesting subjects in such depth so regularly.
+This is my favorite of his, a series of posts on the delusion of the cyclical nature of civilization (hard men create good times, etc.).
+He both attacks the premise and traces the motivations behind the theory, which is usually promulgated by people /within/ that society who are trying to effect some sort of change.
+In other words, the same reason why that point is made today.
+
+[[https://publicdomainreview.org/essay/fear-and-fragility-the-glass-delusion-and-its-history][The Glass Delusion]]: Apparently, Charles VI of France was doing a dance with some nobles while dressed up in tar and then a bunch of them caught fire and burned to death.
+Then Charles went crazy and came to believe that he was made of glass.
+This essay documents the glass delusion very well.
+I wonder why it disappeared—the theory presented, that glass became less weird, makes sense but feels incomplete.
+I find it plausible that a cause of this was a change in connotation, since this would alter the physical metaphor of believing oneself to be made of it.
+Beyond presumably seeming an odd material, though, glass would have been associated with
+@@html:{{< sidenote "fragility" >}}More so than now, when our glass is stronger.{{< /sidenote >}}@@
+and wealth.
+Maybe it evoked the qualities of stained glass windows.
+It's an interesting question, but not a very satisfying one, since with such anomalous events, chance always plays an outsize role.
+
+
