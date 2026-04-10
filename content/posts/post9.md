@@ -2,7 +2,7 @@
 title = "Celadon v0.1.0"
 author = ["Aahaan Singh"]
 date = 2026-03-18
-tags = ["i-did-a_thing"]
+tags = ["i-did-something"]
 categories = ["tech"]
 draft = false
 +++

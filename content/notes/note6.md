@@ -28,13 +28,11 @@ The object I chose was a pen cartridge, but I bit off more than I could chew.
 I started from the position that I wasn't going to use any of the stylistic elements that characterize stationery advertisements: script fonts, ink splashes, parchment, etc.
 I wanted to "modernize" the cartridge, whatever that meant.
 
-Somehow, I ended up with these:
-{{< embed-pdf url="../../ox-hugo/gd_12_25/draft_spreads.pdf" >}}
+Somehow, I ended up with [these](/ox-hugo/draft_spreads.pdf).
 
 Clearly, this has nothing to do at all with pen cartridges, no matter what the text says.
 My professor noted that the colors were not well thought out and that the use of ASCII made the whole thing feel digital rather than analogue.
-Fixing all of this would have required ripping it up and starting over, which I didn't have time for, so I had to make do with surface-level changes:
-{{< embed-pdf url="../../ox-hugo/gd_12_25/all_spreads.pdf" >}}
+Fixing all of this would have required ripping it up and starting over, which I didn't have time for, so I had to make do with [surface-level changes](/ox-hugo/all_spreads.pdf).
 
 I think that this is uglier than the rough draft, which was very coherent but the wrong design.
 The final draft is sort of coherent and sort of the right design for the object.
@@ -55,5 +53,4 @@ At that point, though, I wonder how distinct it is from other forms of art.
 
 As a bonus, here's a poster I did for the previous project, which was to express, in some way, the passage of a week in time.
 I measured it in terms of articles that I read on my RSS Reader.
-Unlike the object project, I am unreservedly pleased with how it turned out.
-{{< embed-pdf url="../../ox-hugo/gd_12_25/Poster2.indd.pdf" >}}
+Unlike the object project, I am unreservedly pleased with [how it turned out](/ox-hugo/Poster2.indd.pdf).

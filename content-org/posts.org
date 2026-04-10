@@ -854,7 +854,7 @@ Interest is so low that anybody who wanted to do it could do it, but nobody want
 I certainly don't.
 If you want to take matters into your own hands, though, maybe you can make the trains run on time!
 
-** DONE Celadon v0.1.0                                                :@tech:i_did_a_thing:
+** DONE Celadon v0.1.0                                                :@tech:i_did_something:
 :PROPERTIES:
 :EXPORT_FILE_NAME: post9
 :EXPORT_DATE: 2026-03-18
@@ -1237,13 +1237,11 @@ The object I chose was a pen cartridge, but I bit off more than I could chew.
 I started from the position that I wasn't going to use any of the stylistic elements that characterize stationery advertisements: script fonts, ink splashes, parchment, etc.
 I wanted to "modernize" the cartridge, whatever that meant.
 
-Somehow, I ended up with these:
-@@html:{{< embed-pdf url="../../ox-hugo/gd_12_25/draft_spreads.pdf" >}}@@
+Somehow, I ended up with [[file:images/gd_12_25/draft_spreads.pdf][these]].
 
 Clearly, this has nothing to do at all with pen cartridges, no matter what the text says.
 My professor noted that the colors were not well thought out and that the use of ASCII made the whole thing feel digital rather than analogue.
-Fixing all of this would have required ripping it up and starting over, which I didn't have time for, so I had to make do with surface-level changes:
-@@html:{{< embed-pdf url="../../ox-hugo/gd_12_25/all_spreads.pdf" >}}@@
+Fixing all of this would have required ripping it up and starting over, which I didn't have time for, so I had to make do with [[file:images/gd_12_25/all_spreads.pdf][surface-level changes]].
 
 I think that this is uglier than the rough draft, which was very coherent but the wrong design.
 The final draft is sort of coherent and sort of the right design for the object.
@@ -1264,8 +1262,7 @@ At that point, though, I wonder how distinct it is from other forms of art.
 
 As a bonus, here's a poster I did for the previous project, which was to express, in some way, the passage of a week in time.
 I measured it in terms of articles that I read on my RSS Reader.
-Unlike the object project, I am unreservedly pleased with how it turned out.
-@@html:{{< embed-pdf url="../../ox-hugo/gd_12_25/Poster2.indd.pdf" >}}@@
+Unlike the object project, I am unreservedly pleased with [[file:images/gd_12_25/Poster2.indd.pdf][how it turned out]].
 
 ** DONE Demon Sheep                                       :@library:@music:@politics:
 :PROPERTIES:
