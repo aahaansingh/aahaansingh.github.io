@@ -1,6 +1,6 @@
 baseURL = 'https://aahaansingh.github.io/'
 languageCode = 'en-us'
-title = 'Aahaan Singh'
+title = 'Aahaan'
 enableRobotsTXT = true
 
 [module]

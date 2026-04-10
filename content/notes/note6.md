@@ -16,7 +16,7 @@ On a meta level, most of the buildings that the university builds these days are
 On a physical level, most art-related resources are located in the
 {{< sidenote "Logan Center," >}}Which is nevertheless a great building, in terms of how it looks and what it contains.{{< /sidenote >}}
 right on the edge of campus.
-On an academic level, art course offerings are pretty thin and are often stuffed into three-hour slots once per weeks as opposed to two or three meetings per week for the same amount of time,
+On an academic level, art course offerings are pretty thin and are often stuffed into three-hour slots once per week as opposed to two or three meetings per week for the same amount of time,
 which has the effect of shortening class time because finding something to do for three hours continuously is hard.
 What I've noticed in both of my art classes, though, is that students often come in apathetic and leave a lot more excited about whatever they were doing.
 It was crazy to see the difference in effort people put in between the first and last projects.

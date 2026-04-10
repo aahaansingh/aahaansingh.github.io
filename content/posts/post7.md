@@ -8,6 +8,7 @@ draft = false
 +++
 
 My friend is not a fan of _La Campanella_.
+
 Despite being among Liszt's best known works, he told me recently, it is not a particularly great piece of music, never mind the fact that the theme itself is Paganini's.
 Back when I still played the piano (in elementary school), I would occasionally put on classical music before bed, usually Mozart or Mendelssohn or something.
 I can't name a single thing Mendelssohn ever wrote, and I don't think that I could back then either, but I still remember a few pieces from prehistoric era of music listening.
