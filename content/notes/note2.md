@@ -3,7 +3,7 @@ title = "Call And Response"
 author = ["Aahaan Singh"]
 date = 2025-09-08
 tags = ["thoughts"]
-categories = ["call-and-response"]
+categories = ["call-and-response", "politics"]
 draft = false
 +++
 

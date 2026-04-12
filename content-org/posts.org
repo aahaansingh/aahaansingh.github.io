@@ -1032,7 +1032,7 @@ In any case, here are some interesting websites, in no particular order.
 
 - [[https://pudding.cool/][The Pudding]]: I don't think journalism gets much more engaging than [[https://pudding.cool/2025/04/music-dna][this]].
 
-** DONE Call And Response                       :@call_and_response:thoughts:
+** DONE Call And Response                       :@call_and_response:@politics:thoughts:
 :PROPERTIES:
 :EXPORT_FILE_NAME: note2
 :EXPORT_DATE: 2025-09-08
