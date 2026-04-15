@@ -2,6 +2,7 @@
 title = "Graphic Design Is My Passion"
 author = ["Aahaan Singh"]
 date = 2025-12-14
+tags = ["uchicago"]
 categories = ["art"]
 draft = false
 +++

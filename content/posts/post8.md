@@ -2,7 +2,7 @@
 title = "Could YOU Be The Next Dictator Of The UChicago Student Body?"
 author = ["Aahaan Singh"]
 date = 2026-02-19
-tags = ["thoughts"]
+tags = ["thoughts", "uchicago"]
 categories = ["politics"]
 draft = false
 +++

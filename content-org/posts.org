@@ -694,7 +694,7 @@ So we have the boringly bad, the intentionally terrible, and the sublimely awful
 I wish that it were possible to mass-produce the latter, but truly great works of bad art cannot be manufactured.
 We must wait for them to arise from the strange areas beyond our cultural perspective.
 
-** DONE Could YOU Be The Next Dictator Of The UChicago Student Body? :@politics:thoughts:
+** DONE Could YOU Be The Next Dictator Of The UChicago Student Body? :@politics:thoughts:uchicago:
 :PROPERTIES:
 :EXPORT_FILE_NAME: post8
 :EXPORT_DATE: 2026-02-19
@@ -969,6 +969,40 @@ It works.
 :EXPORT_HUGO_SECTION: projects
 :END:
 
+** DONE This Website                                          :@design:@tech:
+:PROPERTIES:
+:EXPORT_FILE_NAME: proj3
+:EXPORT_DATE: 2026-04-15
+:END:
+
+This is a Hugo website using [[https://github.com/aahaansingh/hugo-theme-til][my fork]] of the [[https://github.com/michenriksen/hugo-theme-til][Today I Learned]] theme.
+It used to look like [[https://web.archive.org/web/20250601000000*/aahaansingh.github.io][this]], and then like [[https://web.archive.org/web/20260402031134/https://aahaansingh.github.io/][this]].
+The first iteration was the original theme, which is very well-designed.
+I originally chose it because I thought that the graph (which I didn't learn until later was an Obsidian feature) was cool, but there are many other reasons to like it:
+- The Posts/Notes division is a useful way of organizing blogs by effort.
+- The sidenote implementation is excellent, and, as regular readers (myself) of this blog know, sees a lot of use. In fact, sidenotes have probably improved the quality of my prose because they enable me to shift tangentially-related observations out of the main body. 
+- The theme does a good job linking posts together, both by relating on tags and through the graph.
+The original structure of the theme has largely been preserved and, as it is the most important component of this website, the majority of the credit for the design as it currently exists goes to the [[https://michenriksen.com/][author]].
+
+The modifications made in the second iteration are entirely stylistic.
+At the time, I was not very well versed with CSS, didn't know what Tailwind was, and had no clue how Hugo's HTML worked.
+As such, this restyling is somewhat clunky at the code level and I wasn't able to incorporate some features that I really wanted.
+Furthermore, the design choices that /were/ implemented are somewhat questionable.
+I like Baskerville for body text, but [[http://iotic.com/averia/][Avería Serif]], despite having a lot of character, looks sloppy in this application.
+Color-wise, the red accent is overused and the light blue background is harsh on the eyes.
+I have also noticed that many people find it entirely indistinguishable from white.
+
+The current iteration of this website fixes most of these problems.
+The colors are, in my opinion, more tastefully and broadly applied.
+I took inspiration from control room color coding, as described [[https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam][here]].
+Beige backgrounds are a bit [[https://joinreboot.org/i/182220227/out-beige-microsites][generic]] in this day and age but I feel that there are enough splashes of color to keep the site visually interesting.
+I also switched to more [[https://practicaltypography.com/free-fonts.html][professional-looking]]
+@@html:{{< sidenote "fonts." >}}Other decisions like the post titling, link formatting, and line length, were also taken from Butterick's recommendations/work.{{< /sidenote >}}@@
+Issues on mobile have been fixed, and there is now a proper [[https://aahaansingh.github.io/projects/][Projects]] page.
+That is presumably how you got here.
+
+I have no plans to make major changes to this site's design, but if I ever become competent at webdev (unlikely), I may give it a second look.
+
 ** DONE Celadon                                                 :@apps:@tech:
 :PROPERTIES:
 :EXPORT_FILE_NAME: proj2
@@ -1140,7 +1174,7 @@ Here's the
 @@html:{{< backlink "note1" "previous" >}}@@
 library post for a refresher on what happened before then!
 
-** DONE Siouxsie Miscellanea :@miscellanea:@music:@art:musical_stalking:siouxsie_and_the_banshees:
+** DONE Siouxsie Miscellanea :@miscellanea:@music:musical_stalking:siouxsie_and_the_banshees:
 :PROPERTIES:
 :EXPORT_FILE_NAME: note5
 :EXPORT_DATE: 2025-10-26
@@ -1209,7 +1243,7 @@ Just look at Johnny Rotten's politics!
 Julie reveals herself, however, in castigating Jewish critics for being insufficiently mad about it.
 Weaponizing identity is a pattern for her, and one must respect the fact that she learned how to do so well before it became fashionable.
 
-** DONE Graphic Design Is My Passion                                    :@art:
+** DONE Graphic Design Is My Passion                                    :@art:uchicago:
 :PROPERTIES:
 :EXPORT_FILE_NAME: note6
 :EXPORT_DATE: 2025-12-14
@@ -1376,4 +1410,41 @@ and wealth.
 Maybe it evoked the qualities of stained glass windows.
 It's an interesting question, but not a very satisfying one, since with such anomalous events, chance always plays an outsize role.
 
+** DONE Quad Paths                           :@miscellanea:thoughts:uchicago:
+:PROPERTIES:
+:EXPORT_FILE_NAME: note10
+:EXPORT_DATE: 2026-04-15
+:END:
 
+This is an overhead view of the University of Chicago Quadrangle, circa 1914.
+
+#+CAPTION: I couldn't find a newer licensable aerial photo of the quad.
+[[file:images/quadpaths/aerial_quad_1914.jpg]]
+
+There are new buildings, of course, but the quad's paths have not changed very much from their original design in the [[https://www.jbachrach.com/blog/2022/11/30/a-study-in-quadrangles-the-university-of-chicago-campus][Olmsted Brothers Plan]].
+The north-south and east-west paths continue through the entire quad and there is another path from Swift Hall to the
+@@html:{{< sidenote "roundabout." >}}I'm not sure what the technical term for this is, but it has been turned into into a functioning roundabout for Scav.{{< /sidenote >}}@@
+
+This is a very functional set of paths to create.
+Those along the cardinal directions are self-explanatory, and the roundabout provides a parallel route near their busy intersection.
+Each of the major halls (Cobb, Rosenwald, Ryerson, and Kent) plus Swift has a direct route to one of these arteries.
+There is also a thin path from 58th and University to between the Walker Museum (which is not a museum) and Pick, which didn't exist in this photo.
+
+As we can see, there are various asymmetries:
+- 58th and University to Walker/Pick implies 58th and University to Eckhart/Ryerson. However, while the first path provides direct access to the Southeast Quad, the only reason you could possibly have to take the second path would be to reach the Biology building quicker through the Northeast Quad. I don't know if they even have classes in the Biology building. Even if the second path did exist, the Quad would still be asymmetrical because Eckhart is longer than Pick.
+- Ryerson/Kent to Cobb implies Rosenwald/Swift to the Stats building. However, while Cobb is among the busiest buildings on campus in terms of undergraduate classes, I have never heard of there being any in the Stats building.
+- Swift's path goes to the roundabout but Kent's path goes to the diagonal Ryerson/Kent path. I'm not really sure why they did this, but maybe Kent to Cobb is a popular route.
+
+In any case, there's no obligation to actually walk on those @@html:{{< sidenote "paths" >}}Barring inclement weather, which I guess is a big consideration.{{< /sidenote >}}@@ since there are no restrictions against walking on the grass.
+The grass can take some amount of foot traffic but if everybody were to walk on the grass, movement through the quad would actually be slower since you'd have to deal with people coming from all sorts of different directions.
+The grass would also degrade, although it's usually in terrible shape during the school months
+@@html:{{< sidenote "regardless." >}}But it is very pretty in the summer when people who are not affiliated with the university are most likely to visit.{{< /sidenote >}}@@
+
+As such, while the existing paths serve path-walkers well, they provide an even greater benefit for people who do /not/ walk on the paths because such individuals do not have to deal with any traffic at all.
+This raises the question of why anybody walks on the paths at all, and what characterizes those who do not.
+Simply put, people do not want to walk on grass because they are
+@@html:{{< sidenote "sheeple" >}}A charitable term, as sheep walk on grass all the time.{{< /sidenote >}}@@
+responding to the subtle coercion of men from centuries past, which they are attuned to because of their innate aversion towards walking on grass.
+I believe that rebels, in addition to having free will, lack this aversion, which is probably stronger if you live in an area with lots of lawns and weaker if you live in an area with lots of grassy public spaces.
+Such areas often coincide, but lawns are not common in my specific neighborhood.
+That is why I am the most effective walker in the history of the UChicago Quadrangle.
