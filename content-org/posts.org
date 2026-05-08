@@ -1518,3 +1518,16 @@ responding to the subtle coercion of men from centuries past, which they are att
 I believe that rebels, in addition to having free will, lack this aversion, which is probably stronger if you live in an area with lots of lawns and weaker if you live in an area with lots of grassy public spaces.
 Such areas often coincide, but lawns are not common in my specific neighborhood.
 That is why I am the most effective walker in the history of the UChicago Quadrangle.
+
+** DONE More Writing From Yours Truly           :@music:thoughts:from_beyond:
+:PROPERTIES:
+:EXPORT_FILE_NAME: note11
+:EXPORT_DATE: 2026-05-07
+:END:
+
+I've written not one, but two new things for school publications!
+
+First, I've written about The Sound, one of my favorite bands, in [[https://firebirdmagazine.com/music-history/the-music-of-the-sound][Firebird]].
+If you were wondering why I'd dug up an old Sound interview for @@html:{{< backlink "note7" "this" >}}@@ installment of the Library (you probably weren't), this is why.
+Additionally, I wrote an op-ed about AI use on both sides of the classroom for our [[https://chicagomaroon.com/52264/viewpoints/op-ed/ever-get-the-feeling-youve-been-cheated/][newspaper]], The Chicago /Maroon/.
+That's a shorter piece and it's not weird enough to be posted on the blog, but I enjoyed thinking about these questions and I hope that you will, too!
