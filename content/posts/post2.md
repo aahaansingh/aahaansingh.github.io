@@ -1,13 +1,11 @@
 +++
-title = "Music, To My Ears"
+title = "Music, to my Ears"
 author = ["Aahaan Singh"]
 date = 2025-09-18
 tags = ["new-york", "real-life"]
 categories = ["music"]
 draft = false
 +++
-
-## I {#i}
 
 The mayoral primary was heating up when I arrived in New York City on a humid June morning.
 By the time I'd reached the apartment, three flights up, I'd absorbed the spirit:

@@ -1,5 +1,5 @@
 +++
-title = "Democracy In Action"
+title = "Democracy in Action"
 author = ["Aahaan Singh"]
 date = 2026-04-16
 tags = ["uchicago"]

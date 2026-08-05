@@ -8,6 +8,7 @@ draft = false
 +++
 
 Stina Nordenstam is one of those strange figures that I am only aware of because of the internet.
+
 She's a Swedish songwriter who was active in the '90s and early 2000s, but she hasn't released an album in two decades or left a trace online in one, and has therefore in one way ceased to exist.
 Regular readers (myself) will notice the appearance of the [musical stalking](https://aahaansingh.github.io/tags/musical-stalking/) tag on a lot of my music-related posts because I'm naturally disposed towards falling into rabbitholes, and in any case they're
 half of {{< backlink "post3" "what's interesting" >}} about music writing to me.
