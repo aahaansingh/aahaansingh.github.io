@@ -1148,6 +1148,101 @@ It would be nice if the Mahabharata resolved cleanly, but it's not really possib
 There are too many questions asked, too many separate threads, and too many authors with too many opinions for any sort of coherent purpose to emerge at the very end.
 That is precisely what makes the Mahabharata such a compelling work: in its universe of subtlety and illusion, the bad ending is a good one.
 
+** DONE Music I've Enjoyed This Year                        :@music:thoughts:
+:PROPERTIES:
+:EXPORT_FILE_NAME: post12
+:EXPORT_DATE: 2026-09-24
+:END:
+
+I do not find myself listening to much new music these days, at least by my old standards.
+This is partly because I don't like playing music in the background while doing other things.
+I also think that, as you accumulate a greater selection of music that you actually like, the risk/reward calculus of listening to new music changes.
+
+Not only is it more enjoyable to listen to an old favorite when you're not feeling adventurous, but listening to an album for the second time is often as much an act of discovery as listening to one for the first.
+That being said, I've encountered more music from this year that I've truly enjoyed than any other, and I thought that I'd share some of my favorites, songs and albums, in no particular order.
+If I feel like it, I'll make another (because there's another post's worth), but these are the ones I've listened to enough to feel comfortable writing about.
+
+*** Mitski, "If I Leave"
+@@html:<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/83yYI2bWN0U" title="Mitski - If I Leave (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>@@
+
+This song has such wonderful structure to it, one that is constructed from the simplest of ingredients: four chords on loop.
+But the way in which Mitski's voice slowly grows louder and more wretched, and the guitars distort and shift in rhythm, lifts the tension with pleasing linearity.
+The lyrics follow the same narrative arc, all the way to that all-consuming climax; it's hard to come by such a nice correspondence.
+They get at that self-pitying flavor of relationship doomsaying that I (and maybe you) relate to quite easily.
+I find in them the pleasure and vulnerability of being recognized, which, on another level, is what the song is about in the first place.
+
+*** Sergeant, /Symbols/
+@@html:<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/zRJlivQz6X4" title="Shopping for an Avant-Garde Identity in the Bazaar of Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>@@
+
+All music is precedented, and good music is a matter of either perfecting a style or shifting it, and usually some combination of both.
+Generally it is those perfections that are mellow on the ear, because they appeal to our convictions as to how music should sound, and the surprising music that grates and demands.
+I'm not quite sure why /Symbols/, which is genuinely weird music, is so easy to listen to, but I suspect that this is because it grooves so pleasantly.
+As long as you have solid and interesting rhythms, you can play anything on top and have it sound palatable at the very least.
+More than being palatable, though, /Symbols/ is innovative and interesting music.
+It is a strange and abstract evolution of dub (organic rather than electronic) that rambles through a lush forest of noise but never loses structure.
+Curious, jaunty tales are scattered through the mist.
+I am still trying to understand them.
+
+*** Murex, "Massacre"
+@@html:<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/J9a52Y7QJkY" title="Murex - Massacre" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>@@
+
+Without a doubt, the best new song that I have heard this year.
+I'm in awe of the fact that somebody out there could even concieve of such a work, let alone produce it.
+The drums are doing crazy work (the thumping kicks, the scrambling hi-hats, the percussive echoes) but, just as a wall can be made of infinite varied arrangements of bricks, the aggregate effect is simple: that of rapid, immense motion.
+Layers of simple melodies accrete through the song's progression, bubbling beneath a vocal performance that sounds raw because of the innumerable effects applied to it.
+Despite this complexity, every single moment of every single track in this song makes perfect sense in relation to the other tracks and to the previous moment.
+When the drums sputter and cut into a new section after a minute and a half, it seems to have been the most obvious way to break the escalating repetition of the previous section without really arresting the song's momentum, and it lends its ethereal character to the song's climax as well.
+Again, I can't believe that there is so /much/ in here.
+
+*** Portraits of Tracy, /Q: From Where Do Our Primal Instincts Originate? A: MTV!/
+@@html:<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/2pCH8bfzltA" title="Portraits Of Tracy - Caught In A Jam (Official Visualizer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>@@
+
+This is sort of a weird EP for me because I'm generally not a fan of listening to "retro" stuff these days, even if the music I like skews older.
+If I'm gonna listen to something that came out in the past decade, I want it to be something that I've never seen before.
+I'm perfectly happy listening to that kind of music live, but on my own time, when I'm looking for something that touches my mind /and/ my heart?
+Music that's trying to be retro generally doesn't cut it, because (if I can borrow from my earlier criteria) it's rarely as good as the original and, almost tautologically, isn't doing anything new.
+
+But despite the '80s-driven "aesthetic" of this EP, I wouldn't classify it as a rehashing of the period.
+In fact, none of it sounds like anything that came out in the '80s.
+If anything, the music is heavily Bowie-inflected—from recalling his glam era in "Caught In A Jam" and "Royal Courts (Great Misfortune), to covering a soulful ballad for the final track, just as Bowie did on /Station to Station/.
+I love Bowie, so that's a point in favor, but that doesn't address the retro question.
+And indeed, save for "Halli Step / Raider Klan Shit," it isn't trying to sound
+@@html:{{< sidenote "modern." >}}Except even Raider Klan is more than a decade old.{{< /sidenote >}}@@
+But it takes a lot of different sounds, /old/ sounds, and combines them to somehow create something coherent.
+
+Take "Caught In A Jam."
+Again, that's a glam bop, but you've got a
+@@html:{{< sidenote "Stereolab" >}}Even the Stereolab sound is retro, so we're creating recreations of recreations now.{{< /sidenote >}}@@
+sort of organ sound where the piano would normally be (and a piano in the bridge, for good measure), heavily distorted drums, and singing that's more rhythmic than melodic.
+That is to say that there isn't necessarily any innovation in the pieces used, but they are temporally dispersed and it takes something special to make a whole this compelling.
+Part of it is taste, part of it is good production, and the rest is great songwriting.
+The melodies are simple and catchy, while the story is amusingly delivered and tightly coupled to the structure of the song.
+That last part is especially important because it's really difficult to tie together words and
+@@html:{{< sidenote "sounds," >}}That's what I'm attempting to do right now!{{< /sidenote >}}@@
+two completely different units of meaning, in a complementary way—of the songs I've talked about, only "If I Leave" really does it, and that's with a far simpler story and structure.
+This song is labyrinthine.
+
+*** $quib, "Ephus roundshot & floater"
+@@html:<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/FKPmfCHyWC0" title="$quib - Ephus roundshot &amp; floater" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>@@
+
+This one's made by a guy from Oberlin, Brock Bierly and his fictional cyclops friend, which is the sort of bit that's embarassing if you're bad at making music and weird if you're good at it.
+That describes this style of music as well, because when you're this vulnerable in a song, there's a great risk of falling into self pitying navel-gazing.
+I'm reminded of Christgau's review of /Pornography/:
+@@md:>I mean, why so glum, chum? Cheer up; look on the bright side. You got your contract, right? And your synthesizers, bet you'll have fun with them. Believe me, kid, it will pass.@@
+
+I thought that this was a very stupid review when I first read it but Christgau is describing this same risk of failing to speak to the listener and thus appearing inauthentic, no matter how authentic the artist's emotions really
+@@html:{{< sidenote "are." >}}And Christgau's entire system seems to revolve around his notion of authenticity.{{< /sidenote >}}@@
+It's one of my favorite albums, but I find myself agreeing with Christgau more and more on /Pornography/ as I become a happier person because it's such an extravagant and absurd display of emotion, well beyond anything I could conceptualize anybody as really having felt.
+On the other end is music that is too timid, which is both more consumable and less interesting because it necessarily lacks content.
+
+This song is not silly, though, if you're willing to put a little effort into suspending your ridiculometer.
+The number of ways in which Bierly ties those words, "ephus," "roundshot," and "floater," to the narrative of a strained relationship (situationship?) is evocative and resonant.
+There's also a very off-kilter, terminally online quality to the music, with all of the vocal chops and trap hi-hats and electronic noise.
+It's melodic enough to catch my ear and harsh enough to hold it; in that sense, it reminds me of Portishead's "Machine Gun."
+Yeah, I guess listening to this is like being shot in the chest by a machine gun, or being splayed on a cannonball for miles and days, or getting struck out by an ephus.
+
+*** Addendum
+Apparently Heartworms is working on a new album! HYPE!
 
 * DONE Projects
 :PROPERTIES:
@@ -1646,3 +1741,70 @@ First, I've written about The Sound, one of my favorite bands, in [[https://fire
 If you were wondering why I'd dug up an old Sound interview for @@html:{{< backlink "note7" "this" >}}@@ installment of the Library (you probably weren't), this is why.
 Additionally, I wrote an op-ed about AI use on both sides of the classroom for our [[https://chicagomaroon.com/52264/viewpoints/op-ed/ever-get-the-feeling-youve-been-cheated/][newspaper]], The Chicago /Maroon/.
 That's a shorter piece and it's not weird enough to be posted on the blog, but I enjoyed thinking about these questions and I hope that you will, too!
+
+** DONE A PSA on Quantifying the Unquantifiable  :@library:@tech:from_beyond:
+:PROPERTIES:
+:EXPORT_FILE_NAME: note12
+:EXPORT_DATE: 2026-09-24
+:END:
+
+There's no good way to organize the links this time.
+
+[[https://chicagomaroon.com/53643/viewpoints/stop-nit-picking/][Stop Nit-Picking]]: Hey!
+Read my new article in the Maroon!
+
+[[https://www.thebignewsletter.com/p/is-artificial-intelligence-going][Stop Panicking About AI]]: Sums up my thoughts on the recent AI safety buzz, pretty much.
+
+[[https://catfishing.net/][Catfishing]]: This website is responsible for reuniting my high school quizbowl team after four years, over the course of which I asserted to my friends multiple times that quizbowl is a stupid pastime. 
+So it is very powerful.
+I had this idea once that the sort of people who play quizbowl have brains that are structured like Wikipedia because they are really tickled by making associations between different facts or categories.
+They are always hyperlinking.
+Catfishing is not about tricking people into thinking that you’re hot, but it is about guessing a Wikipedia article from its tags, so it’s the same type of knowledge game as quizbowl but even more hyperlink-y.
+This is why it is like crack for my friends and I.
+
+[[https://granta.com/blood-boy/][Blood Boy]]: I think that this story is very grotesque and it’s really funny that the author not only comes from exactly the same background as everyone in the story, but still works in that space.
+It’s basically “what I don’t like about the bay” distilled and I feel bad that I’m plugged in enough to laugh at this while not actively being a part of the strange little society of this piece.
+I am in the worst of both worlds but I got to read this.
+
+[[https://neal.fun/design-the-next-iphone/][Design The Next iPhone]]: Go make a helicopter phone.
+
+[[https://fluoddity.com/?name=Shared-Tangle#b=AQgBAAAAAGAOLe4_AAAAAAAA8D8BFW8Wv4B9K7-6u1m_wcQTvyZ9Lb9XkMQ_jiupPYlwxL4F2Le-johvPsXIYD8QNdm-gO0Bvyv3EcBDtUW_UoVuvqjhzb31_p2_OyPaP_-PqL93bh69jyFzvzKWvL-p56K_eQndvf75jr8R3Iw_-F0mv58_Oj5uXTY_mcKov33gAMAFoQo-XJqHvozwqL9PMnw-iM7Uv6rApz_lE8M-Xjnvv5E2jT-q3T8_Pgw7P53olr5Wfjy_Bpr9vq0vHb5zwAhAvc8EP7lZ0j72D1O_6YW6v3Ri6D8hGDG_90Cev7XkNb_x68i-ZtihPRGvhD5Z12g_zxayPw-cDL_wWRNA02iSPzA1VT4HN_6-Xj0FP96ijz_w7rY_Sa9ePzuC2z8ZwD-_BGEVv4seRr8Vgp6862NyP_z19L6-MiE_AAz3PWsK3L8AAADgTWIRQAAAAADXo8C_AAAAgD818D8AAAAgXI_SPwAAAOB6FO4_AAAAAAAAwD8AAADAyqHFPwAAAAArh5Y_AAAAINnOx78AAAAAAAAAAIL3elzFJdI_AAAAAAAAAAAAAAAAAAAAAAAAAAAAAOA_AAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAA][Fluoddity]]: I am not sure what this but you should check it out and make weird shapes!
+Feed your joy and enhance your whimsy!
+
+[[https://towardsdatascience.com/napoleon-was-the-best-general-ever-and-the-math-proves-it-86efed303eeb/][Napoleon Was The Best General Ever]]: I used to see a lot of this kind of stuff back when I was a freshman who wanted to do “plot lines on a chart” data analysis because I had no understanding of the world.
+So maybe it makes me mad because I’m reminded of my own former smugness and belief in the idea that everything can be easily quantified.
+It’s also the kind of project that somebody who’s logged too many hours on Paradox games made which, again, reminds me of the negative qualities of my high school self.
+This is personal!
+And to those who say that this is such an easy target that it’s not even worth engaging with, I wish that this were the case but I have seen this article shared uncritically on multiple occasions.
+
+So let’s take a look at the methodology.
+The metric of interest is WAR for generals, half because it’s easy to digest and half because it’s a good pun.
+Fair enough, but this is a complicated metric.
+You need good data on army sizes and terrain and morale and you need to somehow quantify a “replacement level” leader in a setting where binning one commander for another would be really disruptive.
+In essence, it’s really really hard to create a clean counterfactual.
+
+This is not helped by the dataset, which is just a list of 3580 battles and 6619 generals from Wikipedia.
+That’s hardly any data, even if we account for the long tail in the distribution of battles per general.
+Furthermore, battles found in the historical record are already going to be biased in favor of the overall victors (a pharaoh wouldn’t make a victory monument to his losses), and the Wikipedia selection will be even more biased by both the amount of data available for a given battle and how interesting the population of Wikipedia battle writers finds a given battle.
+
+Next, the author attempts to regress battle outcomes against relative strengths in infantry, cavalry, artillery, air force, and navy.
+They don’t make a distinction between different eras or locations or terrains at all. 
+They are equating, for example, Mongol cavalry with WWI cavalry in relative effectiveness.
+Naturally, the poor fellow couldn’t find much of a signal at all, which they admitted but then glossed over like it didn't invalidate the whole program.
+Since the final distribution of general WARs appears
+@@html:{{< sidenote "normal," >}}Naturally, they didn’t actually test this, not that it necessarily means anything in the first place!{{< /sidenote >}}@@
+however, they claim that the methodology is sound.
+
+Napoleon is found by this method to be the greatest general ever, likely because we have meticulous documentation of all of his victories.
+The example given in explaining the metric is the Battle of Borodino, in which he “defeats” the Russian army, earning him .49 WAR.
+This is a great example of another reason why the system sucks, which is that we can’t even define what a victory or defeat is.
+The Russians may have left the field at Borodino, but they set in motion the ruination of the French army.
+Napoleon’s poor decisions in Russia, insofar as they could have affected the course of the army, are not covered by this metric at all.
+Most of his losses were to hunger and the cold, but they are not accounted for in battle.
+In any case, I don’t think that generals matter very much at all, and much ink has been spilled on how this is the case in Napoleon’s Russian Campaign in particular—most famously, /War and Peace/.
+
+[[https://nathan.rs/posts/gzip-lm/][gzip-lm]]: Here’s a fun little experiment. 
+I aspire to do something like this on the blog someday.
+
+[[https://thebaffler.com/salvos/paid-phones-kolitz][Paid Phones]]: Payday lending is one of the most repugnant legally sanctioned forms of financial extraction.
+I can’t even laugh at this essay, it’s just sad.
