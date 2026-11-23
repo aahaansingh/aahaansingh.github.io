@@ -1,13 +1,13 @@
 +++
 title = "This Website"
 author = ["Aahaan Singh"]
-date = 2026-04-15
+date = 2026-11-22
 categories = ["design", "tech"]
 draft = false
 +++
 
 This is a Hugo website using [my fork](https://github.com/aahaansingh/hugo-theme-til) of the [Today I Learned](https://github.com/michenriksen/hugo-theme-til) theme.
-It used to look like [this](https://web.archive.org/web/20250601000000*/aahaansingh.github.io), and then like [this](https://web.archive.org/web/20260402031134/https://aahaansingh.github.io/).
+It used to look like [this](https://web.archive.org/web/20250601000000*/aahaansingh.github.io), and then like [this](https://web.archive.org/web/20260402031134/https://aahaansingh.github.io/), and then like [this](https://web.archive.org/web/20261122014455/https://aahaansingh.github.io/).
 The first iteration was the original theme, which is very well-designed.
 I originally chose it because I thought that the graph (which I didn't learn until later was an Obsidian feature) was cool, but there are many other reasons to like it:
 
@@ -25,13 +25,11 @@ I like Baskerville for body text, but [Avería Serif](http://iotic.com/averia/),
 Color-wise, the red accent is overused and the light blue background is harsh on the eyes.
 I have also noticed that many people find it entirely indistinguishable from white.
 
-The current iteration of this website fixes most of these problems.
-The colors are, in my opinion, more tastefully and broadly applied.
-I took inspiration from control room color coding, as described [here](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam).
-Beige backgrounds are a bit [generic](https://joinreboot.org/i/182220227/out-beige-microsites) in this day and age but I feel that there are enough splashes of color to keep the site visually interesting.
+The third iteration of this website fixes most of these problems.
+I revamped the color scheme and made it more consistent, taking inspiration from control room color coding (as described [here](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam)).
 I also switched to more [professional-looking](https://practicaltypography.com/free-fonts.html)
 {{< sidenote "fonts." >}}Other decisions like the post titling, link formatting, and line length, were also taken from Butterick's recommendations/work.{{< /sidenote >}}
-Issues on mobile have been fixed, and there is now a proper [Projects](https://aahaansingh.github.io/projects/) page.
-That is presumably how you got here.
+I also added a proper [Projects](https://aahaansingh.github.io/projects/) page, which is presumably how you got here.
 
-I have no plans to make major changes to this site's design, but if I ever become competent at webdev (unlikely), I may give it a second look.
+Recently, I decided that beige backgrounds are played out in this era so I switched to a green one with some texture and added some _pizzazz_.
+I said earlier that "I have no plans to make major changes to this site's design" but I've been getting a lot of ideas recently so stay tuned!

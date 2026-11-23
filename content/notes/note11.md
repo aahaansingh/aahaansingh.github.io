@@ -2,7 +2,7 @@
 title = "More Writing From Yours Truly"
 author = ["Aahaan Singh"]
 date = 2026-05-07
-tags = ["thoughts", "from-beyond"]
+tags = ["from-beyond"]
 categories = ["music"]
 draft = false
 +++

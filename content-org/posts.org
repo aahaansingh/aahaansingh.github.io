@@ -1250,8 +1250,8 @@ Apparently Heartworms is working on a new album! HYPE!
 :EXPORT_DATE: 2026-11-21
 :END:
 
-My family keeps many things in our basement. 
-This was an oversight in my youth—it once got flooded with shit thanks to a pipe getting clogged by a sandwich that my sister flushed down the toilet for reasons unknown. 
+My family keeps many things in the basement. 
+This was an oversight in my youth—it once got flooded with shit thanks to a pipe getting clogged by a sandwich that my sister flushed down the toilet. 
 
 Thankfully, it is an extensive basement, so the most important relic that it houses—our 400-strong library of Amar Chitra Kathas—was safe from damage. 
 ACKs are these little
@@ -1381,11 +1381,11 @@ That’s the whole point.
 ** DONE This Website                                          :@design:@tech:
 :PROPERTIES:
 :EXPORT_FILE_NAME: proj3
-:EXPORT_DATE: 2026-04-15
+:EXPORT_DATE: 2026-11-22
 :END:
 
 This is a Hugo website using [[https://github.com/aahaansingh/hugo-theme-til][my fork]] of the [[https://github.com/michenriksen/hugo-theme-til][Today I Learned]] theme.
-It used to look like [[https://web.archive.org/web/20250601000000*/aahaansingh.github.io][this]], and then like [[https://web.archive.org/web/20260402031134/https://aahaansingh.github.io/][this]].
+It used to look like [[https://web.archive.org/web/20250601000000*/aahaansingh.github.io][this]], and then like [[https://web.archive.org/web/20260402031134/https://aahaansingh.github.io/][this]], and then like [[https://web.archive.org/web/20261122014455/https://aahaansingh.github.io/][this]].
 The first iteration was the original theme, which is very well-designed.
 I originally chose it because I thought that the graph (which I didn't learn until later was an Obsidian feature) was cool, but there are many other reasons to like it:
 - The Posts/Notes division is a useful way of organizing blogs by effort.
@@ -1401,16 +1401,14 @@ I like Baskerville for body text, but [[http://iotic.com/averia/][Avería Serif]
 Color-wise, the red accent is overused and the light blue background is harsh on the eyes.
 I have also noticed that many people find it entirely indistinguishable from white.
 
-The current iteration of this website fixes most of these problems.
-The colors are, in my opinion, more tastefully and broadly applied.
-I took inspiration from control room color coding, as described [[https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam][here]].
-Beige backgrounds are a bit [[https://joinreboot.org/i/182220227/out-beige-microsites][generic]] in this day and age but I feel that there are enough splashes of color to keep the site visually interesting.
+The third iteration of this website fixes most of these problems.
+I revamped the color scheme and made it more consistent, taking inspiration from control room color coding (as described [[https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam][here]]).
 I also switched to more [[https://practicaltypography.com/free-fonts.html][professional-looking]]
 @@html:{{< sidenote "fonts." >}}Other decisions like the post titling, link formatting, and line length, were also taken from Butterick's recommendations/work.{{< /sidenote >}}@@
-Issues on mobile have been fixed, and there is now a proper [[https://aahaansingh.github.io/projects/][Projects]] page.
-That is presumably how you got here.
+I also added a proper [[https://aahaansingh.github.io/projects/][Projects]] page, which is presumably how you got here.
 
-I have no plans to make major changes to this site's design, but if I ever become competent at webdev (unlikely), I may give it a second look.
+Recently, I decided that beige backgrounds are played out in this era so I switched to a green one with some texture and added some /pizzazz/.
+I said earlier that "I have no plans to make major changes to this site's design" but I've been getting a lot of ideas recently so stay tuned!
 
 ** DONE Celadon                                                 :@apps:@tech:
 :PROPERTIES:
@@ -1438,7 +1436,7 @@ My analysis is based on data from [[https://cricsheet.org/][Cricsheet]], which I
 :EXPORT_HUGO_SECTION: notes
 :END:
 
-** DONE Library                                           :@library:@tech:@music:thoughts:
+** DONE Library                                           :@library:@tech:@music:
 :PROPERTIES:
 :EXPORT_FILE_NAME: note1
 :EXPORT_DATE: 2025-09-06
@@ -1537,7 +1535,7 @@ I am, however, too lazy to make it happen.
 Can you solve this Immaculate (Music) Grid?
 file:images/gridgame.png
 
-** DONE Havoc Steve                      :@library:@music:thoughts:musical_stalking:
+** DONE Havoc Steve                      :@library:@music:musical_stalking:
 :PROPERTIES:
 :EXPORT_FILE_NAME: note4
 :EXPORT_DATE: 2025-10-23
@@ -1858,7 +1856,7 @@ I believe that rebels, in addition to having free will, lack this aversion, whic
 Such areas often coincide, but lawns are not common in my specific neighborhood.
 That is why I am the most effective walker in the history of the UChicago Quadrangle.
 
-** DONE More Writing From Yours Truly           :@music:thoughts:from_beyond:
+** DONE More Writing From Yours Truly           :@music:from_beyond:
 :PROPERTIES:
 :EXPORT_FILE_NAME: note11
 :EXPORT_DATE: 2026-05-07

@@ -7,8 +7,8 @@ categories = ["history"]
 draft = false
 +++
 
-My family keeps many things in our basement.
-This was an oversight in my youth—it once got flooded with shit thanks to a pipe getting clogged by a sandwich that my sister flushed down the toilet for reasons unknown.
+My family keeps many things in the basement.
+This was an oversight in my youth—it once got flooded with shit thanks to a pipe getting clogged by a sandwich that my sister flushed down the toilet.
 
 Thankfully, it is an extensive basement, so the most important relic that it houses—our 400-strong library of Amar Chitra Kathas—was safe from damage.
 ACKs are these little
@@ -67,7 +67,7 @@ This struggle is clearly reflected in Crusader Kings, which takes the same tree-
 Working together, vassals can swiftly neuter the realm or topple a ruler, so the highest priority for a player in most settings is to dominate their vassals, whether by winning allies or defeating rebels.
 Once this is done, expansion is usually not so difficult.
 
-{{< figure src="/ox-hugo/ck2.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>The CK2 Interface. I, the Emperor of Turan, am about to be crushed by the Mongols, who have spawned with an absurd number of troops (the only way the game can model army strength)." >}}
+{{< figure src="/ox-hugo/ck2.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>The CK2 Interface. I, the Emperor of Turan, am about to be crushed by the Mongols, who have spawned with an absurd number of troops (the only way the game can effectively model army strength)." >}}
 
 An interesting consequence of Crusader Kings focusing more on the nitty-gritty of government is that it exposes you to the unsavoury aspects of managing a realm.
 Morality holds no weight in EU4 because trying to make purely moral decisions will probably result in your state collapsing within fifty years.
