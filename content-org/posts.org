@@ -1408,7 +1408,10 @@ I also switched to more [[https://practicaltypography.com/free-fonts.html][profe
 I also added a proper [[https://aahaansingh.github.io/projects/][Projects]] page, which is presumably how you got here.
 
 Recently, I decided that beige backgrounds are played out in this era so I switched to a green one with some texture and added some /pizzazz/.
-I said earlier that "I have no plans to make major changes to this site's design" but I've been getting a lot of ideas recently so stay tuned!
+For example, I implemented drop caps for the Notes section by digitizing a [[https://publicdomainreview.org/collection/an-alphabet-of-organic-type-ca-1650/][set of prints]] designed by Jan Christian Bierpfaff circa 1650.
+This is probably more of an indulgence than anything (I'd compare it to getting a bunch of knicknacks at a garage sale) but I'm happy with how the drop caps look for now.
+
+This website is a work in progress and there are probably lots of little tweaks (if not major overhauls) on the way.
 
 ** DONE Celadon                                                 :@apps:@tech:
 :PROPERTIES:
@@ -1869,7 +1872,7 @@ If you were wondering why I'd dug up an old Sound interview for @@html:{{< backl
 Additionally, I wrote an op-ed about AI use on both sides of the classroom for our [[https://chicagomaroon.com/52264/viewpoints/op-ed/ever-get-the-feeling-youve-been-cheated/][newspaper]], The Chicago /Maroon/.
 That's a shorter piece and it's not weird enough to be posted on the blog, but I enjoyed thinking about these questions and I hope that you will, too!
 
-** DONE A PSA on Quantifying the Unquantifiable  :@library:@tech:from_beyond:
+** DONE A PSA on Quantifying the Unquantifiable  :@library:@tech:from_beyond:thoughts:
 :PROPERTIES:
 :EXPORT_FILE_NAME: note12
 :EXPORT_DATE: 2026-09-24
@@ -1935,3 +1938,46 @@ I aspire to do something like this on the blog someday.
 
 [[https://thebaffler.com/salvos/paid-phones-kolitz][Paid Phones]]: Payday lending is one of the most repugnant legally sanctioned forms of financial extraction.
 I can’t even laugh at this essay, it’s just sad.
+
+** DONE Cool Personal Websites                   :@art:@library:being_online:
+:PROPERTIES:
+:EXPORT_FILE_NAME: note13
+:EXPORT_DATE: 2026-11-24
+:END:
+
+Thanksgiving Break has given me the time to work on this website again and allowed me to indulge in my @@html:{{< backlink "note6" "passion" >}}@@ for experimenting with various arrangements of things.
+I never took a web design course but I like to think that I have a bit of design sense; following that sense is enjoyable, and it would be tragic if I were delighting in the visual suffering of my nonexistent audience.
+It's led me well so far, though, because each overhaul of this site has been driven by some aspect of the previous version having irritated my sensibility, and has resulted in what I have been told is a better site every single time.
+For example, the [[https://web.archive.org/web/20250601000000*/aahaansingh.github.io][first]] version was boring (a cardinal sin) so the [[https://web.archive.org/web/20260402031134/https://aahaansingh.github.io/][second]] one was interesting.
+The second one was chaotic (owing to a lack of care), so the [[https://web.archive.org/web/20261122014455/https://aahaansingh.github.io/][third]] one has a more professional and coherent design language.
+The third one didn't really feel /me/ (it was beige and lacked ornament), so this one 
+@@html:{{< sidenote "does." >}}And it has a more professional and coherent design language, which is something I am constantly working on.{{< /sidenote >}}@@
+
+"Me" is pushing it, though, because I took inspriation from a lot of personal websites and blogs, even ignoring the fact that the structure of this site comes from [[https://michenriksen.com/][somebody else]].
+Take a look and see if you can determine what was pilfered from where:
+- [[https://www.fromjason.xyz/][fromjason.xyz]]
+- [[https://lynnandtonic.com/][lynnandtonic.com]]
+- [[https://www.eileenie.net/][eileenie.net]]
+- [[https://maggieappleton.com/][maggieappleton.com]]
+- [[https://localghost.dev/][localghost.dev]]
+- [[https://gwern.net/][gwern.net]]
+- [[https://anhvn.com/][anhvn.com]]
+- [[https://www.gyford.com/][gyford.com]]
+- [[https://www.messynessychic.com/][messynessychic.com]]
+- [[https://so.nwalsh.com/][so.nwalsh.com]]
+These are also just cool sites to spend time on because they all have interesting content.
+People who have expended so much effort in visually expressing themselves usually have something to say as well.
+In my case, I'd rather have this site, with every post herein, served in plain HTML than have the prettiest site in the world with nothing interesting to say.
+The style has to serve the content, because:
+#+begin_quote
+I want to be seen here in my simple, ordinary fashion, without pose or artifice; for it is myself that I portray[^fn:1].
+#+end_quote
+What I find interesting (though not necessarily appealing) about typography is how functional it is, in the sense that it is art for the purpose of augmenting some greater work that has already been created.
+Just as a director does not have a clear score in mind when they shoot, few write novels conscious of how they will be typeset.
+But typography is even less separable from that which it is supporting; some strange people will listen to music scores (which is really just background music without foreground) on their own, but it is quite impossible for type to exist without text.
+And the way in which a text is visually presented has a major impact on how it is received, as evidenced by the fact that books are still /so/ much easier to read in the hand than through any digital medium, PDFs included.
+I won't read a book these days unless I have it on me, which is why, when an acquaintance *stole* the book I was recently reading (and you'll never guess what it was), I had to visit the local bookstore.
+[[https://powellschicago.com/][Powell's]] is amazing for used books, though this is belied by their pedestrian branding.
+I thought it would be one of those boring bookstores full of cookbooks, celebrity memoirs, and YA smut, but it is a veritable mini-[[https://www.myopicbookstore.com/][Myopic]].
+
+[^fn:1]: Montaigne, /To The Reader/.

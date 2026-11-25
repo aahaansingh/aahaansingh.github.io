@@ -2,7 +2,7 @@
 title = "A PSA on Quantifying the Unquantifiable"
 author = ["Aahaan Singh"]
 date = 2026-09-24
-tags = ["from-beyond"]
+tags = ["from-beyond", "thoughts"]
 categories = ["library", "tech"]
 draft = false
 +++

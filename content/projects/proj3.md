@@ -32,4 +32,7 @@ I also switched to more [professional-looking](https://practicaltypography.com/f
 I also added a proper [Projects](https://aahaansingh.github.io/projects/) page, which is presumably how you got here.
 
 Recently, I decided that beige backgrounds are played out in this era so I switched to a green one with some texture and added some _pizzazz_.
-I said earlier that "I have no plans to make major changes to this site's design" but I've been getting a lot of ideas recently so stay tuned!
+For example, I implemented drop caps for the Notes section by digitizing a [set of prints](https://publicdomainreview.org/collection/an-alphabet-of-organic-type-ca-1650/) designed by Jan Christian Bierpfaff circa 1650.
+This is probably more of an indulgence than anything (I'd compare it to getting a bunch of knicknacks at a garage sale) but I'm happy with how the drop caps look for now.
+
+This website is a work in progress and there are probably lots of little tweaks (if not major overhauls) on the way.
