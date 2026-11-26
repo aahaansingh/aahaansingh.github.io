@@ -8,8 +8,8 @@ draft = false
 +++
 
 I decided a few weeks back, while interning at Tudor, to create a new website.
-
 The initial reason was that circumstances conspired to make me use a command line editor in order to debug something.
+
 In the second semester of my freshman year, I was forced to use Emacs for a week.
 No reason was given.
 I did not enjoy this task from above because Emacs felt cumbersome and the commands they gave us were stuff like "move your cursor to the next instance of a character" and "select and copy text".

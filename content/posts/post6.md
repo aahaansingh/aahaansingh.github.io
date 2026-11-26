@@ -7,9 +7,9 @@ draft = false
 +++
 
 The French Wars of Religion are an interesting period of history.
-
 My AP Euro class (way back when) focused far more on it than any other religious conflict of the era.
 I don't think the 30 Years War even got a mention, which seems like a bit of an oversight.
+
 My interest in the period was revived recently so I went down a Wikipedia rabbithole, and found that [many](https://en.wikipedia.org/wiki/First_French_War_of_Religion_(1562%E2%80%931563)) [of](https://en.wikipedia.org/wiki/First_French_War_of_Religion_in_the_provinces) [the](https://en.wikipedia.org/wiki/1560_Assembly_of_Notables) [articles](https://en.wikipedia.org/wiki/1559%E2%80%931562_French_political_crisis) on the subject were incredibly comprehensive.
 The one on the 1559-1562 French Political Crisis is about 50,000 words, as are the two articles on the First French War of Religion combined.
 That's not quite a book on the

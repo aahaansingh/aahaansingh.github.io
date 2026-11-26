@@ -2,7 +2,7 @@
 title = "Yudhisthira in the Sky With Kauravas"
 author = ["Aahaan Singh"]
 date = 2026-08-04
-tags = ["thoughts"]
+tags = ["thoughts", "india"]
 categories = ["books"]
 draft = false
 +++

@@ -2,7 +2,7 @@
 title = "Cool Personal Websites"
 author = ["Aahaan Singh"]
 date = 2026-11-24
-tags = ["being-online"]
+tags = ["being-online", "i-did-something"]
 categories = ["art", "library"]
 draft = false
 +++
@@ -30,15 +30,15 @@ Take a look and see if you can determine what was pilfered from where:
 -   [so.nwalsh.com](https://so.nwalsh.com/)
 
 These are also just cool sites to spend time on because they all have interesting content.
-People who have expended so much effort in visually expressing themselves usually have something to say as well.
-In my case, I'd rather have this site, with every post herein, served in plain HTML than have the prettiest site in the world with nothing interesting to say.
-The style has to serve the content, because:
+People who have expended so much effort in visually expressing themselves are usually responding to the fact that they have something to say.
+In my case, I'd rather have this site—with every post herein—served in plain HTML than have the prettiest site in the world with nothing interesting to say.
+The style has to serve the content, because –
 
 > I want to be seen here in my simple, ordinary fashion, without pose or artifice; for it is myself that I portray[^fn:1].
 
 What I find interesting (though not necessarily appealing) about typography is how functional it is, in the sense that it is art for the purpose of augmenting some greater work that has already been created.
 Just as a director does not have a clear score in mind when they shoot, few write novels conscious of how they will be typeset.
-But typography is even less separable from that which it is supporting; some strange people will listen to music scores (which is really just background music without foreground) on their own, but it is quite impossible for type to exist without text.
+But typography is even less separable from that which it is supporting; some strange people will listen to movie scores (which is really just background music without foreground) on their own, but it is quite impossible for type to exist without text.
 And the way in which a text is visually presented has a major impact on how it is received, as evidenced by the fact that books are still _so_ much easier to read in the hand than through any digital medium, PDFs included.
 I won't read a book these days unless I have it on me, which is why, when an acquaintance **stole** the book I was recently reading (and you'll never guess what it was), I had to visit the local bookstore.
 [Powell's](https://powellschicago.com/) is amazing for used books, though this is belied by their pedestrian branding.

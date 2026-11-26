@@ -7,7 +7,7 @@ categories = ["music"]
 draft = false
 +++
 
-I’ve talked to a lot of people about where they find new music.
+I have talked to a lot of people about where they find new music.
 One gets them from talking to fellow musicians.
 Another solicits them from friends.
 Many are dependent on Spotify’s suggestions to some degree.

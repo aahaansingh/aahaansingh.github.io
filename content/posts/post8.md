@@ -1,5 +1,5 @@
 +++
-title = "Could YOU be the Next Dictator of the UChicago Student Body?"
+title = "Could YOU Be the Next Dictator of the UChicago Student Body?"
 author = ["Aahaan Singh"]
 date = 2026-02-19
 tags = ["thoughts", "uchicago"]

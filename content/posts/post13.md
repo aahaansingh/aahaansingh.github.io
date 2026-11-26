@@ -115,7 +115,7 @@ Indeed, that is where a lot of the utility of the game lies.
 It is difficult to roleplay if you do not have any context on the character you’re playing, so you’d better read up on them first, and maybe on the history of their kingdom while you’re at it, and oh, you might as well learn about the society in which they lived.
 Playing an alternate history often makes me wonder whether real events were really that crazy—and they often were!
 I also think that, like most games, it becomes hacky when you get good—in that you learn to use mechanics in ways that were not intended—so after a certain point, I got motivated to learn about the time period from outside the game’s perspective.
-Crusader Kings was a major factor in getting me into History Bowl in high school, and it encouraged my interest in the Mongols and European geopolitics.
+Crusader Kings was a major factor in getting me into History Bowl in {{< backlink "note12" "high school" >}}, and it encouraged my interest in the Mongols and European geopolitics.
 The map is also a great way to learn Eurasian geography, because it’s three-dimensional, gives names in the native language when possible, and pinpoints who ruled what and when to an astonishing degree of precision.
 It is also a thousand years out of date but many major settlements have persisted for a long time.
 

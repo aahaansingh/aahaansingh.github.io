@@ -2,7 +2,7 @@
 title = "Quad Paths"
 author = ["Aahaan Singh"]
 date = 2026-04-15
-tags = ["thoughts", "uchicago"]
+tags = ["thoughts", "uchicago", "real-life"]
 categories = ["miscellanea"]
 draft = false
 +++

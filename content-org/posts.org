@@ -7,8 +7,8 @@
 :END:
 
 I decided a few weeks back, while interning at Tudor, to create a new website.
-
 The initial reason was that circumstances conspired to make me use a command line editor in order to debug something.
+
 In the second semester of my freshman year, I was forced to use Emacs for a week.
 No reason was given.
 I did not enjoy this task from above because Emacs felt cumbersome and the commands they gave us were stuff like "move your cursor to the next instance of a character" and "select and copy text".
@@ -23,7 +23,7 @@ So, we'll see how this goes!
 
 [^fn:1]:  I have yet to grasp elisp, or lisp in general, so the only script I've written is one that replaces a key sequence with an em-dash.
 
-** DONE Music, to my Ears                         :@music:new_york:real_life:
+** DONE Music, to my Ears                         :@music:@places:new_york:real_life:
 :PROPERTIES:
 :EXPORT_FILE_NAME: post2
 :EXPORT_DATE: 2025-09-18
@@ -238,7 +238,7 @@ It was in the shallow waves splashing against the rocks, the light cadence of di
 :EXPORT_DATE: 2025-10-05
 :END:
 
-I’ve talked to a lot of people about where they find new music.
+I have talked to a lot of people about where they find new music.
 One gets them from talking to fellow musicians.
 Another solicits them from friends.
 Many are dependent on Spotify’s suggestions to some degree.
@@ -446,14 +446,14 @@ I'm surprised that seven hours was not enough.
 All I did was chuck stones, and all I got for it was a sore shoulder and sand everywhere.
 On the bright side, I did break my record—25 skips!
 
-** DONE Steiners                           :@music:thoughts:stina_nordenstam:
+** DONE Steiners                           :@music:thoughts:stina_nordenstam:musical_stalking:
 :PROPERTIES:
 :EXPORT_FILE_NAME: post5
 :EXPORT_DATE: 2025-11-19
 :END:
 Stina Nordenstam is one of those strange figures that I am only aware of because of the internet.
-
 She's a Swedish songwriter who was active in the '90s and early 2000s, but she hasn't released an album in two decades or left a trace online in one, and has therefore in one way ceased to exist.
+
 Regular readers (myself) will notice the appearance of the [[https://aahaansingh.github.io/tags/musical-stalking/][musical stalking]] tag on a lot of my music-related posts because I'm naturally disposed towards falling into rabbitholes, and in any case they're
 half of @@html:{{< backlink "post3" "what's interesting" >}}@@ about music writing to me.
 With Nordenstam, though, I can't really find anything after [[https://www.totallystockholm.se/stina-nordenstam/][2013]].
@@ -530,9 +530,9 @@ Is it even worth making music as art if it cannot achieve what this has for some
 :EXPORT_DATE: 2026-01-12
 :END:
 The French Wars of Religion are an interesting period of history.
-
 My AP Euro class (way back when) focused far more on it than any other religious conflict of the era.
 I don't think the 30 Years War even got a mention, which seems like a bit of an oversight.
+
 My interest in the period was revived recently so I went down a Wikipedia rabbithole, and found that [[https://en.wikipedia.org/wiki/First_French_War_of_Religion_(1562%E2%80%931563)][many]] [[https://en.wikipedia.org/wiki/First_French_War_of_Religion_in_the_provinces][of]] [[https://en.wikipedia.org/wiki/1560_Assembly_of_Notables][the]] [[https://en.wikipedia.org/wiki/1559%E2%80%931562_French_political_crisis][articles]] on the subject were incredibly comprehensive.
 The one on the 1559-1562 French Political Crisis is about 50,000 words, as are the two articles on the First French War of Religion combined.
 That's not quite a book on the
@@ -622,8 +622,8 @@ I'll usually start on five old books to end up reading one, so there's my endors
 :END:
 
 My friend is not a fan of /La Campanella/.
-
 Despite being among Liszt's best known works, he told me recently, it is not a particularly great piece of music, never mind the fact that the theme itself is Paganini's.
+
 Back when I still played the piano (in elementary school), I would occasionally put on classical music before bed, usually Mozart or Mendelssohn or something.
 I can't name a single thing Mendelssohn ever wrote, and I don't think that I could back then either, but I still remember a few pieces from prehistoric era of music listening.
 /La Campanella/, which I discovered on a "hardest songs to play on the piano" listicle, was my favorite.
@@ -694,7 +694,7 @@ So we have the boringly bad, the intentionally terrible, and the sublimely awful
 I wish that it were possible to mass-produce the latter, but truly great works of bad art cannot be manufactured.
 We must wait for them to arise from the strange areas beyond our cultural perspective.
 
-** DONE Could YOU be the Next Dictator of the UChicago Student Body? :@politics:thoughts:uchicago:
+** DONE Could YOU Be the Next Dictator of the UChicago Student Body? :@politics:thoughts:uchicago:
 :PROPERTIES:
 :EXPORT_FILE_NAME: post8
 :EXPORT_DATE: 2026-02-19
@@ -1034,7 +1034,7 @@ The only thing that could justifiably generate excitement for it would be an inc
 Without more power, it can only try not to muddle up the budget, make slow progress on student issues, and streamline internal processes.
 In other words, it can be competent and nothing more.
 
-** DONE Yudhisthira in the Sky With Kauravas                         :@books:thoughts:
+** DONE Yudhisthira in the Sky With Kauravas          :@books:thoughts:india:
 :PROPERTIES:
 :EXPORT_FILE_NAME: post11
 :EXPORT_DATE: 2026-08-04
@@ -1361,7 +1361,7 @@ Indeed, that is where a lot of the utility of the game lies.
 It is difficult to roleplay if you do not have any context on the character you’re playing, so you’d better read up on them first, and maybe on the history of their kingdom while you’re at it, and oh, you might as well learn about the society in which they lived. 
 Playing an alternate history often makes me wonder whether real events were really that crazy—and they often were! 
 I also think that, like most games, it becomes hacky when you get good—in that you learn to use mechanics in ways that were not intended—so after a certain point, I got motivated to learn about the time period from outside the game’s perspective. 
-Crusader Kings was a major factor in getting me into History Bowl in high school, and it encouraged my interest in the Mongols and European geopolitics. 
+Crusader Kings was a major factor in getting me into History Bowl in @@html:{{< backlink "note12" "high school" >}}@@, and it encouraged my interest in the Mongols and European geopolitics. 
 The map is also a great way to learn Eurasian geography, because it’s three-dimensional, gives names in the native language when possible, and pinpoints who ruled what and when to an astonishing degree of precision. 
 It is also a thousand years out of date but many major settlements have persisted for a long time.
 
@@ -1385,12 +1385,12 @@ That’s the whole point.
 :END:
 
 This is a Hugo website using [[https://github.com/aahaansingh/hugo-theme-til][my fork]] of the [[https://github.com/michenriksen/hugo-theme-til][Today I Learned]] theme.
-It used to look like [[https://web.archive.org/web/20250601000000*/aahaansingh.github.io][this]], and then like [[https://web.archive.org/web/20260402031134/https://aahaansingh.github.io/][this]], and then like [[https://web.archive.org/web/20261122014455/https://aahaansingh.github.io/][this]].
+It used to look like [[https://web.archive.org/web/20251006154401/https://aahaansingh.github.io/][this]], and then like [[https://web.archive.org/web/20260402031134/https://aahaansingh.github.io/][this]], and then like [[https://web.archive.org/web/20261122014455/https://aahaansingh.github.io/][this]].
 The first iteration was the original theme, which is very well-designed.
 I originally chose it because I thought that the graph (which I didn't learn until later was an Obsidian feature) was cool, but there are many other reasons to like it:
 - The Posts/Notes division is a useful way of organizing blogs by effort.
 - The sidenote implementation is excellent, and, as regular readers (myself) of this blog know, sees a lot of use. In fact, sidenotes have probably improved the quality of my prose because they enable me to shift tangentially-related observations out of the main body. 
-- The theme does a good job linking posts together, both by relating on tags and through the graph.
+- The theme does a good job linking posts together through the graph.
 The original structure of the theme has largely been preserved and, as it is the most important component of this website, the majority of the credit for the design as it currently exists goes to the [[https://michenriksen.com/][author]].
 
 The modifications made in the second iteration are entirely stylistic.
@@ -1405,11 +1405,11 @@ The third iteration of this website fixes most of these problems.
 I revamped the color scheme and made it more consistent, taking inspiration from control room color coding (as described [[https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam][here]]).
 I also switched to more [[https://practicaltypography.com/free-fonts.html][professional-looking]]
 @@html:{{< sidenote "fonts." >}}Other decisions like the post titling, link formatting, and line length, were also taken from Butterick's recommendations/work.{{< /sidenote >}}@@
-I also added a proper [[https://aahaansingh.github.io/projects/][Projects]] page, which is presumably how you got here.
+and added a proper [[https://aahaansingh.github.io/projects/][Projects]] page, which is presumably how you got here.
 
-Recently, I decided that beige backgrounds are played out in this era so I switched to a green one with some texture and added some /pizzazz/.
-For example, I implemented drop caps for the Notes section by digitizing a [[https://publicdomainreview.org/collection/an-alphabet-of-organic-type-ca-1650/][set of prints]] designed by Jan Christian Bierpfaff circa 1650.
-This is probably more of an indulgence than anything (I'd compare it to getting a bunch of knicknacks at a garage sale) but I'm happy with how the drop caps look for now.
+Recently, I decided that beige backgrounds are played out (every AI site is beiges and serifs) so I switched to a green one with some texture and added some /pizzazz/.
+For example, I obtained the drop caps for this site by digitizing a [[https://publicdomainreview.org/collection/an-alphabet-of-organic-type-ca-1650/][set of prints]] designed by Jan Christian Bierpfaff circa 1650.
+This is probably more of an indulgence than anything (I'd compare it to getting a bunch of knicknacks at a garage sale) but I think they look great.
 
 This website is a work in progress and there are probably lots of little tweaks (if not major overhauls) on the way.
 
@@ -1820,7 +1820,7 @@ and wealth.
 Maybe it evoked the qualities of stained glass windows.
 It's an interesting question, but not a very satisfying one, since with such anomalous events, chance always plays an outsize role.
 
-** DONE Quad Paths                           :@miscellanea:thoughts:uchicago:
+** DONE Quad Paths                           :@miscellanea:thoughts:uchicago:real_life:
 :PROPERTIES:
 :EXPORT_FILE_NAME: note10
 :EXPORT_DATE: 2026-04-15
@@ -1872,7 +1872,7 @@ If you were wondering why I'd dug up an old Sound interview for @@html:{{< backl
 Additionally, I wrote an op-ed about AI use on both sides of the classroom for our [[https://chicagomaroon.com/52264/viewpoints/op-ed/ever-get-the-feeling-youve-been-cheated/][newspaper]], The Chicago /Maroon/.
 That's a shorter piece and it's not weird enough to be posted on the blog, but I enjoyed thinking about these questions and I hope that you will, too!
 
-** DONE A PSA on Quantifying the Unquantifiable  :@library:@tech:from_beyond:thoughts:
+** DONE A PSA on Quantifying the Unquantifiable  :@library:@tech:@history:from_beyond:thoughts:
 :PROPERTIES:
 :EXPORT_FILE_NAME: note12
 :EXPORT_DATE: 2026-09-24
@@ -1939,7 +1939,7 @@ I aspire to do something like this on the blog someday.
 [[https://thebaffler.com/salvos/paid-phones-kolitz][Paid Phones]]: Payday lending is one of the most repugnant legally sanctioned forms of financial extraction.
 I can’t even laugh at this essay, it’s just sad.
 
-** DONE Cool Personal Websites                   :@art:@library:being_online:
+** DONE Cool Personal Websites                   :@art:@library:being_online:i_did_something:
 :PROPERTIES:
 :EXPORT_FILE_NAME: note13
 :EXPORT_DATE: 2026-11-24
@@ -1966,15 +1966,15 @@ Take a look and see if you can determine what was pilfered from where:
 - [[https://www.messynessychic.com/][messynessychic.com]]
 - [[https://so.nwalsh.com/][so.nwalsh.com]]
 These are also just cool sites to spend time on because they all have interesting content.
-People who have expended so much effort in visually expressing themselves usually have something to say as well.
-In my case, I'd rather have this site, with every post herein, served in plain HTML than have the prettiest site in the world with nothing interesting to say.
-The style has to serve the content, because:
+People who have expended so much effort in visually expressing themselves are usually responding to the fact that they have something to say.
+In my case, I'd rather have this site—with every post herein—served in plain HTML than have the prettiest site in the world with nothing interesting to say.
+The style has to serve the content, because –
 #+begin_quote
 I want to be seen here in my simple, ordinary fashion, without pose or artifice; for it is myself that I portray[^fn:1].
 #+end_quote
 What I find interesting (though not necessarily appealing) about typography is how functional it is, in the sense that it is art for the purpose of augmenting some greater work that has already been created.
 Just as a director does not have a clear score in mind when they shoot, few write novels conscious of how they will be typeset.
-But typography is even less separable from that which it is supporting; some strange people will listen to music scores (which is really just background music without foreground) on their own, but it is quite impossible for type to exist without text.
+But typography is even less separable from that which it is supporting; some strange people will listen to movie scores (which is really just background music without foreground) on their own, but it is quite impossible for type to exist without text.
 And the way in which a text is visually presented has a major impact on how it is received, as evidenced by the fact that books are still /so/ much easier to read in the hand than through any digital medium, PDFs included.
 I won't read a book these days unless I have it on me, which is why, when an acquaintance *stole* the book I was recently reading (and you'll never guess what it was), I had to visit the local bookstore.
 [[https://powellschicago.com/][Powell's]] is amazing for used books, though this is belied by their pedestrian branding.

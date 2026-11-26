@@ -68,3 +68,6 @@ enableRobotsTXT = true
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params.comments]
+  serverURL = "https://comments-blog-psi.vercel.app"
