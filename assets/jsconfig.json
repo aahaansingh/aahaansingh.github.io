@@ -3,7 +3,7 @@
   "baseUrl": ".",
   "paths": {
    "*": [
-    "../../hugo-theme-til/assets/*"
+    "../../../../../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/aahaansingh/hugo-theme-til@v0.0.0-20261127235903-a0ce5c696f78/assets/*"
    ]
   }
  }
